@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2380400,RESOLUTION=1280x720,CODECS="avc1.42c020,mp4a.40.2"
-hdntl=exp=1719845987~acl=%2f*~data=hdntl~hmac=3be30792e1a920ba12153804c5f3a18e08ff4c871b0ac4c98d730f3b872e2422/canal5rosario0.m3u8
+https://telefecanal1.akamaized.net/hls/live/2033413-b/canal5rosario/TOK/master.m3u8?hdnea=st=1719756298~exp=1719932698~acl=/hls/live/2033413-b/canal5rosario/TOK/*~hmac=073c1b2b85da02057e2c95f03b7337245027762352863e65c3fdfea98a63956a

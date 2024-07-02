@@ -2016,6 +2016,12 @@ https://ythls.armelin.one/channel/UC-YQgCnNzDR_-Vr7rqsFCsQ.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/877507453457502208/IltCxz-t_400x400.jpg" group-title="JUJUY", CANAL 2 PERICO
 https://vivo.solumedia.com:19360/tecnovision/tecnovision.m3u8
 
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/QWNwZ7m5kl8Xy81wa_8wI162RuL3a2uNqwGh0ESG3Tv1yFM3TWcQ-OovJIvV2m8Vs6jMce3-vw=s176-c-k-c0x00ffffff-no-rj" group-title="JUJUY", JUJUY A DIARIO
+https://ythls.armelin.one/channel/UCvptQkEfIsDyL_TQdXgFjQw.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lK0KrXGT2_y56igVjtq2W6S5Am3vJ1wuCPQH5gL9LEyw=s176-c-k-c0x00ffffff-no-rj" group-title="JUJUY", Gato Garcia
+https://ythls.armelin.one/channel/UCcIbPO8KQw3LWnXUE71itNw.m3u8
+
 
 
 
@@ -2137,7 +2143,8 @@ https://ythls.armelin.one/channel/UCHc44PWOZiC5IRqOXXqkmtQ.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/JdpMvdGEG6CBeAA5E0i-w22CTAmXDx21yplUDRBKj1qmAulyk9lXxrtt6nzFjIc2p25T_3mlFYg=s176-c-k-c0x00ffffff-no-rj" group-title="MENDOZA", Estación del Sol
 https://ythls.armelin.one/channel/UC5XVWbzQ_WR-XOyUoJWdXRw.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/MxWx5VZVmMoGYw7iR4L-vi9OiQZeyMn0-MgLc0nnymBbBYLy6sxRHN9dIJpu9A8FfeFudjuqjTI=s176-c-k-c0x00ffffff-no-rj" group-title="MENDOZA", Radio Nihuil
+https://ythls.armelin.one/channel/UCHIfuRg5isAgn_TgOBjM2VQ.m3u8
 
 
 

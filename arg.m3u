@@ -1,11 +1,5 @@
 #EXTM3U  
 
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/Espn.png" group-title="LA LLAMA Sports", ESPN  
 https://tvfuego.cdn.rcs.net.ar/mnp/espn/output.mpd    
     
@@ -2839,7 +2833,7 @@ https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/ba0b7563-f805-4ee2-903f-f4fc5149ad0c/artflix_logo_light_-_Toni_Newesil.png" group-title="CINE", ARTFLIX - Películas Clásicas
-https://i.mjh.nz/Plex/643054b1fc3be59477853717-6348a34c1159f6a5ce819b81.m3u8
+https://jmp2.uk/Plex/643054b1fc3be59477853717-6348a34c1159f6a5ce819b81.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/99d1f745bbde1c70f7199fc8c979cd6fa8fd51d920a654e40876f49764b4f701.png" group-title="CINE", Tigueritos TV
 https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
@@ -2854,40 +2848,40 @@ https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
 https://magicstream.ddns.net/magicstream/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100003WE_20230208T013050SQUARE.png_20230208013050.png" tvg-chno="4604" group-title="INFANTIL" , Clan
-https://i.mjh.nz/SamsungTVPlus/ESBC4100003WE.m3u8
+https://jmp2.uk/SamsungTVPlus/ESBC4100003WE.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD130000205_20230809T053830SQUARE.png_20230809053830.png" group-title="INFANTIL" , Pitufo TV
-https://i.mjh.nz/SamsungTVPlus/ESBD130000205.m3u8
+https://jmp2.uk/SamsungTVPlus/ESBD130000205.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300028OE_20220914T041141SQUARE.png_20220914041142.png" group-title="INFANTIL" , iCarly
-https://i.mjh.nz/SamsungTVPlus/ESBA3300028OE.m3u8
+https://jmp2.uk/SamsungTVPlus/ESBA3300028OE.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3200002V5_20231101T032821SQUARE.png_20231101032821.png" group-title="INFANTIL" , Heidi & Maya
-https://i.mjh.nz/SamsungTVPlus/ESBD3200002V5.m3u8
+https://jmp2.uk/SamsungTVPlus/ESBD3200002V5.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300020W5_20220914T041117SQUARE.png_20220914041117.png" group-title="INFANTIL" , Caillou
-https://i.mjh.nz/SamsungTVPlus/ESBA3300020W5.m3u8
+https://jmp2.uk/SamsungTVPlus/ESBA3300020W5.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800009VJ_20221026T004514SQUARE.png_20221026004514.png" group-title="INFANTIL" , Pluto TV Animakids
-https://i.mjh.nz/SamsungTVPlus/ESAJ3800009VJ.m3u8
+https://jmp2.uk/SamsungTVPlus/ESAJ3800009VJ.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2300003S5_20230712T021346SQUARE.png_20230712021346.png" group-title="INFANTIL" , Rabbids : La invasion
-https://i.mjh.nz/SamsungTVPlus/ESBD2300003S5.m3u8
+https://jmp2.uk/SamsungTVPlus/ESBD2300003S5.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA33000262Z_20221026T004517SQUARE.png_20221026004518.png" group-title="INFANTIL" , Bob Esponja
-https://i.mjh.nz/SamsungTVPlus/ESBA33000262Z.m3u8
+https://jmp2.uk/SamsungTVPlus/ESBA33000262Z.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ38000046O_20221026T004503SQUARE.png_20221026004503.png" group-title="INFANTIL" , Pluto TV Kids
-https://i.mjh.nz/SamsungTVPlus/ESAJ38000046O.m3u8
+https://jmp2.uk/SamsungTVPlus/ESAJ38000046O.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA33000324U_20230308T021505SQUARE.png_20230308021505.png" group-title="INFANTIL" , Rugrats
-https://i.mjh.nz/SamsungTVPlus/ESBA33000324U.m3u8
+https://jmp2.uk/SamsungTVPlus/ESBA33000324U.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3900004ED_20230712T021344SQUARE.png_20230712021345.png" group-title="INFANTIL" , Pocoyó
-https://i.mjh.nz/SamsungTVPlus/ESBC3900004ED.m3u8
+https://jmp2.uk/SamsungTVPlus/ESBC3900004ED.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4700001GR_20221214T044925SQUARE.png_20221214044926.png" group-title="INFANTIL" , duckTV
-https://i.mjh.nz/SamsungTVPlus/ESBC4700001GR.m3u8
+https://jmp2.uk/SamsungTVPlus/ESBC4700001GR.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS0yk7_PeURJ-mtnHG9jPaoMAjh3zlgwOxt0yCdXNwDsCT0h9PpEG3PBaYhLYaUIW63Ds&usqp=CAU" group-title="ENTRETENIMIENTO", Canal 74 TV 
 https://stmv5.voxtvhd.com.br/canal74hd/canal74hd/playlist.m3u8

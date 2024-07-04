@@ -1,13 +1,13 @@
 #EXTM3U  
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/Espn.png" group-title="LA LLAMA Sports", ESPN  
-https://tvfuego.cdn.rcs.net.ar/mnp/espn/output.mpd    
+http://181.191.140.2:8000/play/a0gv/index.m3u8  
     
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/Espn2.png" group-title="LA LLAMA Sports", ESPN 2
 http://181.191.140.2:8000/play/a0gu/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="LA LLAMA Sports", ESPN 3
-https://tvfuego.cdn.rcs.net.ar/mnp/espn3/output.mpd
+http://181.191.140.2:8000/play/a0gw/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPNExtraHDSouth.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/512px-ESPN_4_logo.svg.png" group-title="LA LLAMA Sports", ESPN 4
 http://190.11.130.46/mnp/espn_extra/output.mpd
@@ -48,7 +48,7 @@ http://181.191.140.2:8000/play/a0ip/index.m3u8
 http://181.191.140.2:8000/play/a0gf/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="LA LLAMA Sports", LA LLAMA Sports 5
-https://tvfuego.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
+/mnp/espnpremium/output.mpd
 
 #EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="LA LLAMA Sports", LA LLAMA Sports 6
 https://ushuaia-vision.cdn.rcs.net.ar/mnp/tntsports/output.mpd
@@ -1360,7 +1360,7 @@ https://ythls-v3.onrender.com/channel/UCbzmpuQOweW0DNp-9Y0tNjg.m3u8
 https://ythls-v3.onrender.com/channel/UCFrj6t7M8nbomwp6h8iueOA.m3u8
 
 #EXTINF:-1 tvg-logo="https://noticiasdoce.com.ar/logofooter.png" group-title="PCIA BS AS", CANAL 12 TRENQUE LAUQUEN 
-https://ythls-v3.onrender.com/channel/UCaU_cKHQ4IFHvBzQ-tKS1-Q.m3u8
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0183
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ZSwlhkQFkgeMpoK8iSsAkKeJ-2RovxiK0OrwA1FyRZ5iIm-PnXKIBZMtbCBR3kD281vKUvNRug=s176-c-k-c0x00ffffff-no-rj" group-title="PCIA BS AS", CANAL 10 DE JUNIN
 https://g4.mc-slo.transport.edge-access.net/a10/ngrp:canal10junin-100056_all/Playlist.m3u8
@@ -1369,7 +1369,7 @@ https://g4.mc-slo.transport.edge-access.net/a10/ngrp:canal10junin-100056_all/Pla
 https://stream.arcast.live/c8mdp/ngrp:c8mdp_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/M14IwE4_GRnGI7a2vzEWC0O_-5LYsKyaRLrtZz_63APTwB0lgpfUVxy5Knj_3LBxHwXKlmNN=s176-c-k-c0x00ffffff-no-rj" group-title="PCIA BS AS", CANAL 10 MAR DEL PLATA
-https://ythls-v3.onrender.com/channel/UCUM1n1Cb_cbnYTY45GvtyJw.m3u8
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0157
 
 #EXTINF:-1 tvg-logo="http://pbs.twimg.com/profile_images/735615592665776128/usyzdWVo_400x400.jpg" group-title="PCIA BS AS", CANAL 2 MAR DEL PLATA
 https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
@@ -1663,7 +1663,7 @@ https://videostream.shockmedia.com.ar:19360/universoradio895/universoradio895.m3
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0208
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/El_doce_tv_cba_logo.png" group-title="CORDOBA" , EL DOCE CORDOBA
-https://ythls-v3.onrender.com/channel/UCiaePeoCqpU8hBHiNrgkzrA.m3u8
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0207
 
 #EXTINF:-1 tvg-id="Canal10Cordoba.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_10_C%C3%B3rdoba_%28Logo_2018%29.png/133px-Canal_10_C%C3%B3rdoba_%28Logo_2018%29.png" group-title="CORDOBA", CANAL 10 CORDOBA
 https://stream.arcast.net:4443/canal10/ngrp:canal10_all/playlist.m3u8
@@ -1865,7 +1865,7 @@ https://ythls-v3.onrender.com/channel/UCOEfC01xcEN2e_Dju2MP88Q.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/D4dJktBXZr-HJd69IiAtn-013T2XheGAGTzZd9wIYrMydNa0EYHWCikOEFbuvdGyntpG4H8I9w=s88-c-k-c0x00ffffff-no-rj" group-title="ENTRE RIOS", ONCE TV PARANA
-https://ythls-v3.onrender.com/channel/UCWzsoIEZLGLinhYrm66VD4Q.m3u8
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0242
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Canal_9_Litoral_2021.png/133px-Canal_9_Litoral_2021.png" group-title="ENTRE RIOS", CANAL 9 PARANA
 https://stream.arcast.live/canal9litoral/ngrp:canal9litoral_all/playlist.m3u8
@@ -2317,7 +2317,7 @@ https://ythls-v3.onrender.com/channel/UCMpcyUVxU2Po21iQbOrBstw.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Elonce_TV_Salta.png/640px-Elonce_TV_Salta.png" group-title="SALTA", EL ONCE TV SALTA
-https://ythls-v3.onrender.com/channel/UCy-r-BQ5BQRU6rzGS73-WBQ.m3u8
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0305
 
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-4uuTlgBxIrI/T-8fuime0xI/AAAAAAAAAu0/az3W_0QE8Aw/s1600/canal2.jpg" group-title="SALTA", CANAL 2 SALTA
 https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
@@ -2365,10 +2365,10 @@ https://ythls-v3.onrender.com/UClRhjsbjqqUnGP_SvBQrxGg.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Canal_Ocho_San_Juan_%28Logo_2018%29.png" group-title="SAN JUAN", CANAL 8 SAN JUAN 
-https://ythls-v3.onrender.com/channel/UC5UKMEIoqvNDMSDz2_6Sn9g.m3u8
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0325
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/C13sjlogo.svg/revision/latest/scale-to-width-down/175?cb=20210526222043&path-prefix=es" group-title="SAN JUAN", CANAL 13 SAN JUAN
-https://ythls-v3.onrender.com/channel/UCuJvDPQIaUhvdHiH275WjNA.m3u8
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0324
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Channel_4_logo_%28San_Juan%2C_Argentina%29_.png/133px-Channel_4_logo_%28San_Juan%2C_Argentina%29_.png" group-title="SAN JUAN", CANAL 4 SAN JUAN
 http://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
@@ -2668,10 +2668,10 @@ https://5f700d5b2c46f.streamlock.net/airelibrefm/airelibrefm/playlist.m3u8
 https://ythls-v3.onrender.com/channel/UCRlakPhec4-k3vkBeyWBojg.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBPkoMgNeNKLxEvCJoh6Zlms2uYE05yG53weTL1Oivm_VRyDtNleO9gf1oKgY4cTHYpFA&usqp=CAU" group-title="TUCUMAN", EL OCHO TUCUMAN
-https://ythls-v3.onrender.com/channel/UCYozHHDnLnQs2yc2k3t8cPA.m3u8
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0377
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJVE4QANzgXzGz73LJphirPDunehTTXLwO7QOPPhtQ=s88-c-k-c0x00ffffff-no-rj"  group-title="TUCUMAN", AMERICA TUCUMAN
-https://ythls-v3.onrender.com/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0381
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/-tA30i615UkGDDL-NfvfMx8eV0LqTj3ely88Ijg8LsKe-y7FelHARDgjOsSsgtgt5Gf8sGvG=s176-c-k-c0x00ffffff-no-rj" group-title="TUCUMAN", LA GACETA PLAY
 https://ythls-v3.onrender.com/channel/UCowbI8idnvQTl2sFxkOvnKw.m3u8

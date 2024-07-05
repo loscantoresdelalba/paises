@@ -955,7 +955,7 @@ https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1580945742138671107/jGi6et3P_400x400.png" group-title="AMBA", REALPOLITIK LA PLATA
 https://vivo.solumedia.com:19360/realpolitik/realpolitik.m3u8
 
-#EXTINF:-1 tvg-logo="https://atvargentina.com/wp-content/uploads/2021/07/atvargentina-x1.png" group-title="AMBA", ATV 19.1
+#EXTINF:-1 tvg-logo="https://atvargentina.com/wp-content/uploads/2021/07/atvargentina-x1.png" group-title="AMBA", ATV ARGENTINA 19.1
 https://stream.arcast.com.ar/atbargentina/atbargentina/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.paste.pics/bc45740f1e3774c663644d7488cfee08.png" group-title="AMBA", Urbana TeVe 32.2
@@ -1214,7 +1214,7 @@ https://srv2.zcast.com.br/sptv32/sptv32/playlist.m3u8
 https://vivo.solumedia.com:19360/canalsiete/canalsiete.m3u8
 
 #EXTINF:-1 tvg-logo="https://bvconline.com.ar/images/logo.png" group-title="PCIA BS AS", BVC
-https://bvclive1.boldmss.com/BVC_HD/BVC_HD.isml/BVC_HD.m3u8
+https://bvclive1.boldmss.com/BVC_HD/BVC_HD.isml/BVC_HD-video=2400000.m3u8?dvr_window_length=60
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1063837924259713026/BoBILHLP_400x400.jpg" group-title="PCIA BS AS", BOLIVAR TV
 https://stmv5.livecastv.com/bolivartelevision/bolivartelevision/playlist.m3u8
@@ -1580,9 +1580,6 @@ https://tv.t5satelital.com/tvhls/streamcorrientes.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Xsx2hTl33BhUJu40H3WjQhMuQK3r2HczS0brsgN1I28FwrNWq4LdHo626BS9_Dp_3SBqakYSMg=s176-c-k-c0x00ffffff-no-rj" group-title="CORRIENTES", Yapeyu Cable color
 https://videohd.live:19360/8094/8094.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/1333_AVC_HD.png" group-title="CORRIENTES", AVC HD
-https://ssh101.bozztv.com/ssh101/streamavc/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.tvcinco.com/images/logo2.jpg" group-title="CORRIENTES", 5TV CORRIENTES
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 
@@ -1930,7 +1927,8 @@ https://inliveserver.com:1936/17004/17004/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/3UhY2THJQDscaI5o82B-0E-WM9UHlQETaYz_HHjudcUnIgUYKOkQLIq8xNOtiO2oyo89vAxq=s176-c-k-c0x00ffffff-no-rj" group-title="MISIONES", RADIO FOLK 91.9 FM
 https://inliveserver.com:1936/9004/9004/playlist.m3u8   
 
-
+#EXTINF:-1 tvg-logo="https://radioiguazu.com/wp-content/uploads/2024/07/radio-yguazu-julio-2024.png" group-title="MISIONES", Radio Yguazu TV
+https://live.enhdtv.com:8081/radioiguazutv/index.m3u8
 
 
 
@@ -1946,7 +1944,7 @@ https://stream.arcast.net:4443/radio7neuquen/ngrp:radio7neuquen_all/playlist.m3u
 https://media.neuquen.gov.ar/rtn/television/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKb5-vSRK5KLAtpTQoPAsGV3dPKFq8HDrB8hbgKAYw=s176-c-k-c0x00ffffff-no-rj" group-title="NEUQUEN", CN 24/7 NEUQUEN 
-https://panel.dattalive.com/6605140/smil:6605140.smil/playlist.m3u8
+https://panel.host-live.com:19360/cn247tv/passthru.m3u8
 
 #EXTINF:-1 tvg-logo="https://neuquentvcanal10.com.ar/tv/wp-content/uploads/2021/07/LogoP1.fw_-300x141.png" group-title="NEUQUEN", CANAL 10 NEUQUEN
 https://stmv1.srvstm.com/tv10/tv10/playlist.m3u8 

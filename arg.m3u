@@ -1333,7 +1333,7 @@ https://panel.host-live.com/8144/8144/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://aruna.cin.edu.ar/images/radios/Universidad-Mar-del-Plata-02.jpg" group-title="PCIA BS AS", RADIO UNIVERSIDAD 95.7 MDP (SOLO AUDIO)
 http://fm.mdp.edu.ar:8000/;stream.mp3
 
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s121619/images/logog.png" group-title="PCIA BS AS", COMPACTO FM 97.7 MDP (SOLO AUDIO)
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s121619/images/logog.png" group-title="PCIA BS AS", COMPACTO FM 97.7 MDP (SOLO AUDIO)   
 http://compactofm.hopto.org:7040/stream.mp3
 
 #EXTINF:-1 tvg-logo="https://radiobrisas.com/images/favicon.png" group-title="PCIA BS AS", RADIO BRISAS MDP (SOLO AUDIO)

@@ -47,8 +47,7 @@ http://181.191.140.2:8000/play/a0ip/index.m3u8
 #EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="LA LLAMA Sports", LA LLAMA Sports 4
 http://181.191.140.2:8000/play/a0gf/index.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="LA LLAMA Sports", LA LLAMA Sports 6
+#EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="LA LLAMA Sports", LA LLAMA Sports 5
 https://ushuaia-vision.cdn.rcs.net.ar/mnp/tntsports/output.mpd
 
 
@@ -1530,8 +1529,7 @@ https://videostream.shockmedia.com.ar:19360/fmsoledad885/fmsoledad885.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2788646843/74ed26f4a4fb0777ad7f6388a2f26458_400x400.jpeg" group-title="CORDOBA", RADIO CIUDAD 100.3 FM CORONEL MOLDES
 https://live.enhdtv.com:19360/cesartv/cesartv.m3u8
 
-#EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="LA LLAMA Sports", LA LLAMA Sports 5
-/mnp/espnpremium/output.mpd
+
 
 #EXTINF:-1 tvg-logo="http://static-1.ivoox.com/canales/4/0/4/1/741470821404_XXL.jpg" group-title="CORDOBA", RADIO CARDINAL MIRAMAR CORDOBA
 https://vivo.solumedia.com:19360/cardinal/cardinal.m3u8

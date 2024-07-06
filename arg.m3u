@@ -998,6 +998,10 @@ https://stmvideo1.livecastv.com/tvo/tvo/playlist.m3u8
 #EXTINF:-1 tvg-id="1542" tvg-name="Televideo" tvg-logo="https://cdn.m3u.cl/logo/1542_Televideo.png" group-title="AMBA", Televideo
 https://stmvideo1.livecastv.com/televideo/televideo/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPA9-frGpTEVxzPdcOUwSQt7_zmPL59-7CNqwha0ySb5hF2DBnrCOUzgeUKMXhx-E33PYSe2fgNpF5PrrMAnuZtAv_cBQxV2u4rSn_GxvuGJa2koje2lBLQOeyMl6GF4pa1jUWWG7bgpTc_AQWpBbfbpZn9eFla7Q7hKKeobKPJDbqFnYqieqfLIjkm_8/s200/SKYVISION%20TV.jpg" group-title="AMBA", Sky Vision
+https://stmvideo3.livecastv.com/visionsky/visionsky/index.m3u8
+
+
 
 
 
@@ -2512,6 +2516,9 @@ https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.paste.pics/d70bd8de125ec9cee654a09743c6d533.png" group-title="INFANTIL", Magic Kids 
 https://magicstream.ddns.net/magicstream/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfRbifiUexivtDzxsqtsC61C7uhIlhpjvU7m5P9bS3AG_zGAl39526E-wB6Ykpx48SjHl89CEGMEPwrxJpGUXeZ0A7L_Mhtzsm-XoMMgSl1P-Yr1tM_C6nn9MD2194Ec3mfB_Wx_VmiSXU4fqmMb43meSb4iO59L9S1tkwzC6Psj1HJdi2avW1pf9s458/s200/Logo-letras-3d.png" group-title="INFANTIL", Retro Magico 
+https://ssh101.bozztv.com/ssh101/retromagicochnl/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100003WE_20230208T013050SQUARE.png_20230208013050.png" tvg-chno="4604" group-title="INFANTIL" , Clan
 https://jmp2.uk/SamsungTVPlus/ESBC4100003WE.m3u8

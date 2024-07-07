@@ -59,8 +59,7 @@ https://lobo-tv.live:443/belpley/sYqKZQrTZa/2140800
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="LA LLAMA Sports", Tango Sports 3
 https://lobo-tv.live:443/belpley/sYqKZQrTZa/2121662
 
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="LA LLAMA Sports", Tango Sports 4
-http://187.102.208.83:50000/play/a06a/index.m3u8
+
 
 
 
@@ -76,11 +75,7 @@ http://jmrk.xyz:3050/148eman@gmail.com/gdQrY6Y3Ht/610348
 #EXTI#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/tlc.png" group-title="LA LLAMA Sports", TeleCarpincho Sports 4
 https://lobo-tv.live:443/belpley/sYqKZQrTZa/202157
 
-#EXTI#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/tlc.png" group-title="LA LLAMA Sports", TeleCarpincho Sports 5
-https://lobo-tv.live:443/belpley/sYqKZQrTZa/203186
 
-#EXTI#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/tlc.png" group-title="LA LLAMA Sports", TeleCarpincho Sports 6
-https://lobo-tv.live:443/belpley/sYqKZQrTZa/203187
 
 
 
@@ -409,7 +404,7 @@ http://186.148.163.18:8000/play/a04h/index.m3u8
 http://181.78.71.5:4890/play/a03z/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/2560px-ESPN_6_logo.svg.png" group-title="DEPORTIVOS", ESPN 6
-http://201.159.113.219:49000/play/a05f/index.m3u8
+http://181.78.71.5:4890/play/a03q/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/504px-ESPN_7_logo.svg.png" group-title="DEPORTIVOS", ESPN 7
 http://181.78.20.119:8002/play/a00f/index.m3u8

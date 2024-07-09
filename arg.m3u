@@ -4163,11 +4163,6 @@ https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VISANTAM.png" group-title="RELIGION", SANTA MARIA
 https://cdn.trimi.com.ar/live/sm-live/SANTA_MARIA/sa_live_hls/SANTA_MARIA.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJU5xrUno4HKdap5HbCiBB9i-V88NpGCEZXfubLx=s176-c-k-c0x00ffffff-no-rj" group-title="RELIGION", SANTUARIO DE LUJAN
-https://ythls-v3.onrender.com/channel/UCFrj6t7M8nbomwp6h8iueOA.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJWNDsgOQpELvnnVWIFRp5mFtEl4TW-xap84RNf1=s176-c-k-c0x00ffffff-no-rj" group-title="RELIGION", Santuario Ma. del Rosario de San Nicolás
-https://ythls-v3.onrender.com/channel/UCgdzw0B0pBaTwCBOuJJD-HQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/9730866.jpg" group-title="RELIGION", CANAL LUZ
 https://g2.vxral-slo.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_720p/index.m3u8
@@ -4191,17 +4186,7 @@ https://stmvideo2.livecastv.com/zonagospel/zonagospel/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Four_Seasons_logo.svg/1200px-Four_Seasons_logo.svg.png" group-title="WEB CAM Y CLIMA", FOUR SEASONS BUENOS AIRES
-https://ythls-v3.onrender.com/channel/UCCkRwmztPEvut3gpsgmCmzw.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Bandera_de_la_Provincia_de_Tierra_del_Fuego.svg/320px-Bandera_de_la_Provincia_de_Tierra_del_Fuego.svg.png" group-title="WEB CAM Y CLIMA", USHUAIA CAMARA
-https://ythls-v3.onrender.com/channel/UC6NTD1HmdaZMbe9K5qADOvw.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Bandera_de_la_Provincia_de_Tierra_del_Fuego.svg/320px-Bandera_de_la_Provincia_de_Tierra_del_Fuego.svg.png" group-title="WEB CAM Y CLIMA", CANAL DE BEAGLE USHUAIA
-https://ythls-v3.onrender.com/channel/UCuR9Gx3rZA_eaJV9tF8l8HQ.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJU-1n6A5Bg_wJXi4t-kNpT79Mx9jIxTnCLWThl9xA=s176-c-k-c0x00ffffff-no-rj" group-title="WEB CAM Y CLIMA", Cipolletti
-https://ythls-v3.onrender.com/channel/UCnJz20oDnvQJJaWfaJGqKTw.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.neuquencapital.gov.ar/modernizacion/wp-content/uploads/sites/5/2019/12/logo.png" group-title="WEB CAM Y CLIMA", CIUDAD DE NEUQUEN (Mirador Paseo Limay)
 https://nqnmunicam.ddns.net/camnqn/rotonda_720p/playlist.m3u8
@@ -4260,17 +4245,7 @@ http://cambsasyplaya.gesell.com.ar/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.gesell.gob.ar/image/256/LOGO%20GESELL%20FB.png" group-title="WEB CAM Y CLIMA", LA PINOCHA VILLA GESELL
 http://camlapinocha.gesell.com.ar/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJUKVAYKPRYrumZZMCDkUyy1Rr1gMzpKf9GR8ib8=s176-c-k-c0x00ffffff-no-rj" group-title="WEB CAM Y CLIMA", RESISTENCIA CHACO
-https://ythls-v3.onrender.com/channel/UCftan3cVkKKfxXpRN9JUX7A.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/s8lgzKvQTcv3cUt3-Uq_6OOAgdN-aUxN2D-R9Syq82-rtp29O007EtfGcsrp0ZBcTOg3QFp0tQ=s160-c-k-c0x00ffffff-no-rj" group-title="WEB CAM Y CLIMA", MONTECARLOS MISIONES
-https://ythls-v3.onrender.com/channel/UCveq2vfMg1tgeVjvRPsOLVg.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lrQOv1GBOI4lcjMNjGRJPqgaNodo4cOkOiPh7_QAnDfw=s160-c-k-c0x00ffffff-no-rj" group-title="WEB CAM Y CLIMA", Portal 5900
-https://ythls-v3.onrender.com/channel/UCl5P2zJoH1gBdf38AiYALKA.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m8X9mT-HZG5lKIiCAJykIcmXqiL55IlVyGqWptac3ezJgf6r2Can8euNwXp4DTBFAbEw=s176-c-k-c0x00ffffff-no-rj" group-title="WEB CAM Y CLIMA", Tierra del Fuego Live
-https://ythls-v3.onrender.com/channel/UC6NTD1HmdaZMbe9K5qADOvw.m3u8
 
 
 

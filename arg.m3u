@@ -142,7 +142,7 @@ http://190.11.130.46/mnp/construiriptv/output.mpd
 http://190.11.130.46/mnp/dxtv/output.mpd
 
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="NACIONALES", TyC SPORTS 
-http://45.232.148.101:8000/play/a07n/index.m3u8
+http://112307897359776763.ofd0628.xyz:80/play/hu111735/Rak3N8ukv94/776763.ts
 
 #EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title="NACIONALES", GARAGE TV
 http://190.11.130.46/mnp/garage/output.mpd

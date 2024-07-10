@@ -250,7 +250,7 @@ https://s8.stweb.tv/chacra/live/playlist.m3u8
 https://live-01-02-eltrece.vodgc.net/eltrecetv_noti/tracks-v3a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---LS4.png" group-title="NOTICIAS NACIONALES", RADIO CONTINENTAL AM 590
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0001
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0001  
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Radio_Rivadavia_%282020%29.png/800px-Radio_Rivadavia_%282020%29.png" group-title="NOTICIAS NACIONALES", RADIO RIVADAVIA AM 630
 http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0002
@@ -297,7 +297,7 @@ https://linear-256.frequency.stream/mt/studio/256/hls/master/playlist.m3u8
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="DEPORTIVOS", TyC SPORTS
-http://181.191.140.2:8000/play/a0fj/index.m3u8
+
 
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="DEPORTIVOS", TyC SPORTS Internacional
 http://177.222.108.82:2500/play/a0h5/index.m3u8
@@ -4186,9 +4186,401 @@ http://camlapinocha.gesell.com.ar/playlist.m3u8
 
 
 
+ 
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xdsxNVXq/609-Canal-Ciudad.png" group-title="NACIONALES" , CANAL DE LA CIUDAD
 https://ythls-v3.onrender.com/channel/UCOV_Vx1baZJY9Tfvgm-UI3w.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6bFkcbsklRXLeB2ajrnCl8/c5ccbf53c3ab168c6448fb76265d5778/canal-quiero-musica.png?fm=webp&q=80" group-title="NACIONALES" , Quiero Música
 https://ythls-v3.onrender.com/channel/UC_-fqnv3Rp8k9VJ06_aDIHg.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/C5N.jpg" group-title="NOTICIAS NACIONALES", C5N
+https://ythls-v3.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8 
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/LA_NACION_%2B.jpg" group-title="NOTICIAS NACIONALES", LA NACION +
+https://ythls-v3.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/1x137ostiNGYbXe5sP-LYMun9ghpr_uz54WATZM7rVeBBrDV-8DQV0Hy8Fv8kbWeX_BIY48Vbng=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", EXTRA TV
+https://ythls-v3.onrender.com/channel/UCy3MW5Goy1epjhvtjalzbKg.m3u8 
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lq90qVBWRaNJxcH70Jlko05VWx2iwDf8vL4jGMJ5MnmCs=s160-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", El Destape TV 24.6
+https://ythls-v3.onrender.com/channel/UC5wAqJ9NF0fpGH9dVf3h6HA.m3u8 
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/OttUuKTaZLo0tUG6D9uG2_ZRIt7EaVN7_tVQIO4R3NHwb3QZdyBxK01CTn5JsOhVVdiAdUH2_nY=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", Telefe Noticias
+https://ythls-v3.onrender.com/channel/UChxGASjdNEYHhVKpl667Huw.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1569312379703365637/fdzc1Tzz_400x400.jpg" group-title="NOTICIAS NACIONALES", RADIO MITRE AM 790
+https://ythls-v3.onrender.com/channel/UCYvINPByAdCcpA0sWrF3I_w.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Radio_Rivadavia_%282020%29.png/800px-Radio_Rivadavia_%282020%29.png" group-title="NOTICIAS NACIONALES", RADIO RIVADAVIA AM 630
+https://ythls-v3.onrender.com/channel/UCLAj5TzCrNbqe3LosSKHLcQ.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---LS4.png" group-title="NOTICIAS NACIONALES", RADIO CONTINENTAL AM 590
+https://ythls-v3.onrender.com/channel/UC7fedBVCaVPhMNI_axwg69w.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/z5OyIisNuuoNMsoe5L13VtY2gEBqBLxr3Qz6XUpEyv35AKcU3MLBriN72R2XHFmK0Dn-Qkjfnvk=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", RADIO 10 AM 710
+https://ythls-v3.onrender.com/channel/UCJozD5RVug7EZdTjqkGISYQ.m3u8
+
+#EXTINF:-1 tvg-logo="https://amdelplata.com/wp-content/uploads/2023/08/logo-negativo.png" group-title="NOTICIAS NACIONALES", RADIO DEL PLATA AM 1030
+https://ythls-v3.onrender.com/channel/UCz9Z9Qu-eZDkDnQ6lgI1YSQ.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/GmKYEDNukShC6vUJU-drXQMkllMCZK184gRIMBulv41Z0suNzAw-uwhY6ViGlDh07oAcORvp=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", El Observador 107.9
+https://ythls-v3.onrender.com/channel/UC-rI_XNppHJO-Ga4RW_CDKw.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/vPjSedcJZggFmkyjCh8lWuqaDFeuyaLKEOio7xibiwvSs1aUZ7CeyCQenE9TUJPmtqRwHZR3cA=s160-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", DIPUTADOS TV 
+https://ythls-v3.onrender.com/channel/UC1h8_HKc5wScqeRw1HV6a6w.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/xK2UU-mjcRno8NcJSFnE9VRaIY_-TRaKNa3Nkyca7ZMxUeFrIIZGk9YsltI64rdmaHgyOQowFg=s160-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", Radio Splendid AM 990
+https://ythls-v3.onrender.com/channel/UC8_LjUd3lB3pr64NDs8o4tA.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/yDu32Wsa3T7E1q2L44Hl2lzrBrKiUxVYXL9m8QinTUJ7Km8bQDhx1A9_GvuvtiPtKWWbk6yOvi8=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", Vocería Presidencial
+https://ythls-v3.onrender.com/channel/UCRyGJcJYqqiCByEaUhDLMsw.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/SYF5BHG2NEezqYYqnZNSmQR-Fc4DuguOJ1-qW47XDeogzBJk-bo4OnnDJQWQaK-4d7jHhpHMv3w=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", Ahora Play
+https://ythls-v3.onrender.com/channel/UCCSbOixo2xpZc_oToqeq2jQ.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Ww7DjZRjD_qoJfcoNBfS7JYncYTdyf_jIsk4O6aVZFk7KEBvwVKJiWG2971CUwlktJ13Cz_E3A=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", CLARÍN - Eventos
+https://ythls-v3.onrender.com/channel/UCjMGMWnToRcQRqmyVB4R2xQ.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZRViyhqrK_4KgGtkRD8XC5a0VtNWvkIZIvpDSOuKQ=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", Perfil - Eventos
+https://ythls-v3.onrender.com/channel/UCl6L85YuyK4rVn5NI--dHUw.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/AtGjuO-bEPxnvAcBcrguBz2Dvg0fm7tmk3M92HQpjQdXRxI55XTX1XX_p_OF-Sme-d1J0LP8tA=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", Infobae - Eventos
+https://ythls-v3.onrender.com/channel/UCvsU0EGXN7Su7MfNqcTGNHg.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaRGO4j6_mLGeLiFV6tWQZaY_xL6He9--A3M-IRnpA=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", SENADO TV (SOLO SESIONES)
+https://ythls-v3.onrender.com/channel/UCStm2uvQKowSXrnCzTWAn6Q.m3u8
+
+#EXTINF:-1 tvg-id="France24Espanol.fr" tvg-logo="https://pbs.twimg.com/profile_images/875649264826724352/7ZsxO5yi_400x400.jpg" group-title="NOTICIAS INTERNACIONAL", FRANCE 24 ESPAÑOL
+https://ythls-v3.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_ll92OqxwOp3LzbIrIYDBO3K5WQK6q7xfJ3DCKrxQ=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS INTERNACIONAL", CNN BRASIL
+https://ythls-v3.onrender.com/channel/UCvdwhh_fDyWccR42-rReZLw.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaQqZkqkHW3D4oDj5kPgt5TO9LJ3YEiu9Ye-ToJBnw=s176-c-k-c0x00ffffff-no-rjj" group-title="NOTICIAS INTERNACIONAL", Television Canaria
+https://ythls-v3.onrender.com/channel/UCTQrUTmzCWIfG6h4EVCdOCQ.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJWHIbwMhnFMCuzqAgYLr5jYv87JH7fDN65VxdIP=s176-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG", LUZU TV
+https://ythls-v3.onrender.com/channel/UCTHaNTsP7hsVgBxARZTuajw.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/cz7jeL0VIqd7P4jfb-6G9zFvoitju6SeHcf2cCcuUr-NH6lvPYjjp9iEYhAdC72jSzDK4zWf=s176-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG", Neura Media
+https://ythls-v3.onrender.com/channel/UC-40U87JsevMIMn7PMw4jPw.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/fFQhXC5i5_BqbrkaWhpHPENuEvWk4rXuuxgPM15cUQrBkjIqJrFfIzPgOvwznvWhfoMHrEHxYnQ=s176-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG", OLGA
+https://ythls-v3.onrender.com/channel/UC7mJ2EDXFomeDIRFu5FtEbA.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/_5u1Wy5sDRxQluh1vPLBF92iQm9XYlH7Ml73MZ3HI-2OuEEGwlkVjAWZD5L1EkW3B6CS-BXYpA=s176-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG", GELATINA
+https://ythls-v3.onrender.com/channel/UCWSfXECGo1qK_H7SXRaUSMg.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nqhez5E1j4YzrCvzTAAB6z_KDFFZznqWv0x-vfY2gsXdY=s900-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG", BLENDER
+https://ythls-v3.onrender.com/channel/UC6pJGaMdx5Ter_8zYbLoRgA.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/6WAUT8ntjLXm2jr9xW5HNePAYKlTO_IrLXAC90Nn7iKYnQxr5jQ_LJUMHf--iC9AqsDQrHK7dA=s176-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG", República Z
+https://ythls-v3.onrender.com/channel/UCmk9kjghfkM3k8I6jioDr3g.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ObSd5f3r6-fBE-4PVZk7wF46nB1l2jVbKE-23jJpocg6I-CjycFUyR03aQPuRNdBVOnKX9kRQA=s176-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG", LA CASA STREAMING 
+https://ythls-v3.onrender.com/channel/UC4u0BhsSi33PS20_1JHiC5A.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/aTw53D60RiGJHPx9mvShHRkbzK9tMQXrFIq29TXzXvnLaRm7rkMipeq01-T01pXiMJyrXaqxlOQ=s176-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG", AZZ
+https://ythls-v3.onrender.com/channel/UCgLBmUFPO8JtZ1nPIBQGMlQ.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/UEATPU2rMqerCid0coyZKs0xrv2MB7hsQy0EW2e0z1pVW9cbDrLTrluWqlI_D2UaTxhPF-TFiA=s176-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG", Bondi Live
+https://ythls-v3.onrender.com/channel/UCnZidingmuqNkaT9Wm64Xxg.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/BGIQ0u-6bndxhdtmvjI4xsUtH_Lqh4zKnYsO9QJESkSKurPkPxERVf6pkZxomqFBsoau6RMU-ks=s176-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG", eltrece YT STREAM
+https://ythls-v3.onrender.com/channel/UC0DM_mHV2u6dj8ig51GkQwg.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/uaMgzd4i0iGHxpaBRJVYFYRpWBWBqDJdhysytSXMKvtEo1AsLWj1KIqaMWzMP8q-8MCHRq-_UQ=s176-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG", Telefe YT STREAM
+https://ythls-v3.onrender.com/channel/UCHc3el42hXKKhjs_1vzWk9A.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKZUAZtUv4nPqv-cDM9NBOvMkFPsgM9y0jHRCXlrPQ=s176-c-k-c0x00ffffff-no-rj" group-title="AMBA", UNQtv
+https://ythls-v3.onrender.com/channel/UCDGRQwIsI-kOCwdUn4UFjSQ.m3u8  
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/uRTY_eREkTQUEbazeoqOh0RhNNcgsag-QkBmT3lO94yy7LbvNk_lPgZtAnHryirJR6dXRV8p8Iw=s176-c-k-c0x00ffffff-no-rj" group-title="AMBA", Campeones TV
+https://ythls-v3.onrender.com/channel/UCQtJCkHdO66sKxvfD8Ik_bg.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/tjkAsX3xKROi9W558RKpI_CUwHiknuQXTTYHeqFPdu-BuBvHzToha9X26BXt34I7yiFy48EsBw=s176-c-k-c0x00ffffff-no-rj" group-title="AMBA", Pilar Play
+https://ythls-v3.onrender.com/channel/UClFaWD8mSP7Chyk2tXz29PQ.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJWssSiiv5-VNemX1EZVnTNJd8J1HvdTlbFFxOgw=s176-c-k-c0x00ffffff-no-rj" group-title="AMBA", Radio Caput
+https://ythls-v3.onrender.com/channel/UCSNEUHaJ2fg7EA0qxweuTxg.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_npFV9T27REoAAI-D0S8bykaIzaB7C4_ejxV-Yw4UXnDuU=s176-c-k-c0x00ffffff-no-rj" group-title="AMBA",  Hipodromo de Palermo 
+https://ythls-v3.onrender.com/channel/UCBQnpH3GKOKRGg4O8PpqQSw.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZRCazpNOqQcY8FaA-lP-H-SNhKKsCEQLny14r69=s176-c-k-c0x00ffffff-no-rj" group-title="RADIO-AMBA", MEGA
+https://ythls-v3.onrender.com/channel/UCtloZ7xFNO9O114pkoV9a5g.m3u8
+
+#EXTINF:-1 tvg-logo="https://urbanaplayfm.com/file/2022/05/logo.png" group-title="RADIO-AMBA", URBANA PLAY 104.3 FM 
+https://ythls-v3.onrender.com/channel/UCC1kfsMJko54AqxtcFECt-A.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Ph7cwkIc-kOD29JxD6Y6JNotUDTnHLBgulrJAkw_wNQz3QSevz9SF3zqxpHfudNzrpdYgEKsYyY=s176-c-k-c0x00ffffff-no-rj" group-title="RADIO-AMBA", Radio One 103.7
+https://ythls-v3.onrender.com/channel/UC8XExQXrgutNTcwfACp1Miw.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/pDSd701P-bEY545oalnnx-tSrr1Eu9t2Aw9BhFkoVMtdf3o-FrGMxzipJk5iaZx0HkOD8dRxzQ=s160-c-k-c0x00ffffff-no-rj" group-title="RADIO-AMBA", Radio Con Vos 89.9
+https://ythls-v3.onrender.com/channel/UCxDteokWBemJvLI_I0VUGdA.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Radio_rockpop.png/200px-Radio_rockpop.png" group-title="RADIO-AMBA", Rock And Pop
+https://ythls-v3.onrender.com/channel/UCAlQ5f7mhnkfM6jjXeJDw7g.m3u8
+
+#EXTINF:-1 tvg-logo="https://urbanaplayfm.com/file/2022/05/logo.png" group-title="RADIO-AMBA", URBANA PLAY 104.3 FM 
+https://ythls-v3.onrender.com/channel/UCC1kfsMJko54AqxtcFECt-A.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/MPGVFdswIwc8Fq8FtxsOCvlj1nSVpIta5nGP4AzA81mZtK2HiYC8Cz_uMZZTVIocNJLhaZ76dbQ=s88-c-k-c0x00ffffff-no-rj" group-title="RADIO-AMBA", Pop Radio 101.5
+https://ythls-v3.onrender.com/channel/UCtc_WjDRwCrZSEq2WEwD7XQ.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/97sLhCzI_E89ZkqUzcJiB5qwaurcB0o7XYP979p34w82R2r_7ZtQZhxKAV8POPFq3IMDrxbaXBk=s176-c-k-c0x00ffffff-no-rj" group-title="RADIO-AMBA",  FM Vale 97.5 
+https://ythls-v3.onrender.com/channel/UC1Oa7gHuqzGHB90FPb0ssPA.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJUmFb2DMdngJH3RjI4eBdmlLyfUHTRCugSS6HFrIA=s176-c-k-c0x00ffffff-no-rj" group-title="RADIO-AMBA", FM Ser 89.7
+https://ythls-v3.onrender.com/channel/UCfXRDaPfc1xEkXlXtovnbaw.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJWOI0vL1fZ3-YaXle53cjMOvcCi17ycicBPHmWN=s176-c-k-c0x00ffffff-no-rj" group-title="RADIO-AMBA", Radio Simphony 91.3 San Isidro
+https://ythls-v3.onrender.com/channel/UCZjgc9kt2jN9cV6SysPzj0g.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/oa2OjRn1EnfajA7rfEhwz-84-kCfd36PewMNBOXGXQZtCgMN1j6jFHn_J7VfHv831E0yMWNTzAQ=s176-c-k-c0x00ffffff-no-rj" group-title="RADIO-AMBA", Trinchera TV
+https://ythls-v3.onrender.com/channel/UC2mee-ZXEhOFIXTqLjciPQw.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJW108VQdEAdiUr9j0Kg4AdnJFWLjvnjw3d8yQn_Xg=s176-c-k-c0x00ffffff-no-rj" group-title="RADIO-AMBA", FM SION 101.3
+https://ythls-v3.onrender.com/channel/UCCYOSfyIGqy3Pq1f-zP-7AQ.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqNbGDvd8qr7mK-HFZtxI3J8LVEzfyWmW8EUU4SlWw=s176-c-k-c0x00ffffff-no-rj" group-title="RADIO-AMBA",  AM 1600 ARMONÍA CASEROS
+https://ythls-v3.onrender.com/channel/UCQ8vaNf6CLWH0KN979JSnNg.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/PE_TlFhCq8hXPaRuJqko_1WYttM8R-X4qIptXv_nQ7KFm6rREPoyc3gRjJJQxkSDQQH3AThCin4=s176-c-k-c0x00ffffff-no-rj" group-title="RADIO-AMBA",  Red Moskito Radio
+https://ythls-v3.onrender.com/channel/UCJi8ZBbLPl7MEzYT8M_y8bw.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/8lgdlG_KpeoahwparnNXD_4Tb2wmYuRGfleOFchGmzxJjJAlGm_TJ6dpOoG0GST1yj7y_ECwpA=s176-c-k-c0x00ffffff-no-rj" group-title="RADIO-AMBA",  Radio Contacto AM 1460
+https://ythls-v3.onrender.com/channel/UCMbQq-58AN8vmEgkcjiTI6A.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/qz5kcKwoDu9mjdm9re7K6t7AuQqPXcGEaNfD0S01Y7HVrXLlL2vb0nvMGZIgl3NN-l78VpHv=s176-c-k-c0x00ffffff-no-rj" group-title="RADIO-AMBA", Frecuencia Zero Podcast FM 92.5 MHz
+https://ythls-v3.onrender.com/channel/UCWeum91XCJ0RmTG8R4d8TFg.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/NghPm1DSYLx1sF4F3pB1Kls2G5jzJSK0U2cCx0YV9efI4gYsQ1zlAVOZHYbPEDcLGRzOUJdO_A=s900-c-k-c0x00ffffff-no-rj" group-title="RADIO-AMBA",  Radio HEXA Luzuriaga
+https://ythls-v3.onrender.com/channel/UCtd-EN6Zjopzf7wmoYIdFAQ.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/5T7A84Ex9lSEXZsIsO36xhT2panO8JQyrJo-L9o6tg-dZfNd-e7wJwerPGkZSYwhObDWmy8v=s176-c-k-c0x00ffffff-no-rj" group-title="RADIO-AMBA", Radio Rebelde AM 740
+https://ythls-v3.onrender.com/channel/UCdW4mWl91eph-zOtdLrKcIQ.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/BDX_ttXf__CmZ3dfEbZCqr2HKMqrjnjaIEoARzajM2Qrqnwig8hD1QZnJ0zIolthLwCtXFiEJQ=s176-c-k-c0x00ffffff-no-rj" group-title="RADIO-AMBA", Radio Libre AM 890
+https://ythls-v3.onrender.com/channel/UCQji6yNSM4LRrLdsIXsC_Og.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/-FLUQpSKYvJcXOQ3U_h05fznfFk0fSq8rNdeEpvKT7PFOiSGKzr3HqejiN1b0Xg2e7YdEc2nTA=s176-c-k-c0x00ffffff-no-rj" group-title="RADIO-AMBA", Re FM 107.3
+https://ythls-v3.onrender.com/channel/UCgOvQwLB387CWMrseINhyCg.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/y0f51-rpVlpkxbMd2Pm7WMPR7IP850EoDYFM-qoqHN8Eth3tc5Mg1eD8LXZ2wSfyZkDTy-bRcw=s176-c-k-c0x00ffffff-no-rj" group-title="RADIO-AMBA", Eco Medios
+https://ythls-v3.onrender.com/channel/UCIoNMC1V8SQ6gPcyoPj7aIw.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/bA7hYe4xurkJWEjSlzoY1AH7popgyQm7ls3QlDZKciJicV-LkkA9RI1LYPriLiUNw4yfD7uT1w=s176-c-k-c0x00ffffff-no-rj" group-title="RADIO-AMBA", Carburando Radio
+https://ythls-v3.onrender.com/channel/UCVHQZIlc766KbxpKQK1on6Q.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/dRPKP2NvjrovVP4NXIqLfwP6bwL3vytK-q8wNfwpBLNIHx80iWb_CadYb2n24Hu7FBowKZCl=s176-c-k-c0x00ffffff-no-rj" group-title="RADIO-AMBA", Somos Radio AM 530
+https://ythls-v3.onrender.com/channel/UCN3gx_z62nxCeFIkaK2HbrA.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/3mAUBwUKF7IJFlUO7wZAB3zSQlx2nKZAtQ-ubSQJ6khqrTy2pBfgTB4RGGCrVdXfn46HUmbQ=s176-c-k-c0x00ffffff-no-rj" group-title="RADIO-AMBA", Radio Kamikaze
+https://ythls-v3.onrender.com/channel/UCwYIspzhyEff1U3OxZcvb8w.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/JxTyO3fqqzmDMpm3NVF8wEZuuyGdJGlYHo4kSjo9BwGEZmuHL5rq3GhMbAjNHb82v20FId6AdQ=s176-c-k-c0x00ffffff-no-rj" group-title="RADIO-AMBA", Radio La Red AM 910
+https://ythls-v3.onrender.com/channel/UCs1U5lRXvUJHn0CgXI6oXAw.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/L2dno_bLwRIpL8wxLS4M90clhOqRUHhRpdM3V_VGAOECPTq8VvBCuQRADgnlvKX2A1rvKZffhQ=s176-c-k-c0x00ffffff-no-rj" group-title="RADIO-AMBA", canalmantra
+https://ythls-v3.onrender.com/channel/UCRpVIJxDvvhxyoKpRIwtNEg.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/e-epc1eh9uGh_uZGarEYXmxUm9-073chOqYfsoXcBriRf0dvBY3wLStVO-9z2XnCSoxZ8Mi6=s176-c-k-c0x00ffffff-no-rj" group-title="RADIO-AMBA", Fm Boedo
+https://ythls-v3.onrender.com/channel/UCbzmpuQOweW0DNp-9Y0tNjg.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJU5xrUno4HKdap5HbCiBB9i-V88NpGCEZXfubLx=s176-c-k-c0x00ffffff-no-rj" group-title="PCIA BS AS", SANTUARIO DE LUJAN
+https://ythls-v3.onrender.com/channel/UCFrj6t7M8nbomwp6h8iueOA.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/4b30W0KWgdbdUL6ZAYISpCnnzCg9xH4RB8NYoAKMJ0Nl40KP90hvZdfcutyMhEx_gao8G52uCZA=s176-c-k-c0x00ffffff-no-rj" group-title="PCIA BS AS", El Nueve TV BAHIA BLANCA
+https://ythls-v3.onrender.com/channel/UCIxzRdYlVDvpfiETqICvjyA.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/d21BfBmhX1bwW-GGgDW-mNYrotw3I8mBG7jxfeDn3bZzuu5tEjkUm-EUXiZJLYcApoQxALu46Q=s176-c-k-c0x00ffffff-no-rj" group-title="PCIA BS AS", SUMA PLAY 
+https://ythls-v3.onrender.com/channel/UCimXhau1n9r56QbTLOpx0Tg.m3u8
+
+#EXTINF:-1 tvg-logo="https://marchitv.ar/wp-content/uploads/2022/05/IsologoMarchiTVFinalSINPDO-237x86.png" group-title="PCIA BS AS", Marchi TV
+https://ythls-v3.onrender.com/channel/UCUqGR69RKBZ2sZbSpTThvkw.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/khFHqwhky1z0MqM2PXRS-WeptU3O8vNt5I_dtXrZsRXgORZD7V2A-CXC-LyFYClTpU1oo28y=s176-c-k-c0x00ffffff-no-rj" group-title="PCIA BS AS", SolTv SAN PEDRO
+https://ythls-v3.onrender.com/channel/UCyT9rRB2tzQY5pwLe-5f8Lw.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kwtcp7oL4WjeUETmMUe_kWXJWyzQvj0gzVgRvR0vHo1A=s176-c-k-c0x00ffffff-no-rj" group-title="CHACO", Natagala Chaco
+https://ythls-v3.onrender.com/channel/UCrqnIMFEqxDmO8PL3xkGHpg.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKZV03Va-KitWMDDeNi_RAjXOzg7pLpaC8q6g3L9Lg=s176-c-k-c0x00ffffff-no-rj" group-title="CHUBUT", CANAL 7 CHUBUT
+https://ythls-v3.onrender.com/channel/UCfmLIFSQSQ-4y9Jgn93nefA.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1477865517230690306/bfzdGRuK_400x400.jpg" group-title="CHUBUT", AZM TV 
+https://ythls-v3.onrender.com/channel/UCf0t3JPPILv3Pt4GiWwU3Ew.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJUpZ4U3PrHwfvekbRXCTK7Kzt-Ljs-m3Z4AQ02e=s176-c-k-c0x00ffffff-no-rj" group-title="CORDOBA", Radio Stylo Dolores 92.7
+https://ythls-v3.onrender.com/channel/UChvHz8XEgQjHbuQfCb1Uatw.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJWUEFjzQfTzx_KP6w09OhYreDz7_jM45T1S-QrSBw=s176-c-k-c0x00ffffff-no-rj" group-title="CORDOBA", Radio Pulxo 95.1 Cordoba
+https://ythls-v3.onrender.com/channel/UCwEs6zaXoRw-FZksxnWkZgQ.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqPbKE49pR7iYQ6Cta7P-9ZANdYI21Xfc0KfwbSjSg=s176-c-k-c0x00ffffff-no-rj" group-title="CORDOBA", Radio Suquía
+https://ythls-v3.onrender.com/channel/UCcl6jt4C1zpWjYsOHhDjNhQ.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cptv.com.ar/img/page1_pic5.jpg" group-title="CORDOBA", CANAL 2 CARLOS PAZ
+https://ythls-v3.onrender.com/channel/UC4_l5fsyHwmvwLaUFI7Lrwg.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.radiosudamericana.com/images/logo.png" group-title="CORRIENTES", Radio Sudamericana
+https://ythls-v3.onrender.com/channel/UCfnW8ZvUokNzgBDioLyb2Jw.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/40rptCTXnlrSVBB4PjRlmeBgs7OhSkZDawUZLF2p9a-HHQoldPbx1-UxsDDuS556qXK46L79Pg=s176-c-k-c0x00ffffff-no-rj" group-title="CORRIENTES", Radio LT7 AM 900
+https://ythls-v3.onrender.com/channel/UCOEfC01xcEN2e_Dju2MP88Q.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/845676050470371329/r_9D6hXw_400x400.jpg" group-title="ENTRE RIOS", FM DEL EXODO 88.5 - NOGOYA
+https://ythls-v3.onrender.com/channel/UCapnd7dvjhAckdgX2ostj3g.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJV402YRaAG3orjwhyhjntvRD5_e1cuK0L81dxMKUA=s176-c-k-c0x00ffffff-no-rj" group-title="ENTRE RIOS", Tele5 Digital
+https://ythls-v3.onrender.com/channel/UC5lUjiuS_elD_bnWgVW3_JQ.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZQwBuHJ75KxfcONCRNgUWyqDM126rtpN5ePjF_o_g=s176-c-k-c0x00ffffff-no-rj" group-title="FORMOSA", CANAL 23 FORMOSA
+https://ythls-v3.onrender.com/channel/UCLhBOPrfgpb4N00DZB5GI4A.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/aWrAmNEE3tbAkTfPV0Whw-OKKYtG11mtNrRToZQlQ952p0uWOsfFgPo0gn377qGq0GNKDg1fWQ=s176-c-k-c0x00ffffff-no-rj" group-title="JUJUY", AM 630 JUJUY
+https://ythls-v3.onrender.com/channel/UCMikS5--DczSjozuGIyUI1Q.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/KfPHzhpe7ViArc52b9HTpNJIjRbTSksMJw8q9ZtMTKdLSODex18qQfYfDnEcQV1vUFzRO646_Zs=s176-c-k-c0x00ffffff-no-rj" group-title="JUJUY", FM Imagen 92.5
+https://ythls-v3.onrender.com/channel/UC6CnZ3Yw2LMlEStiaK-I8mA.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqPpGrFKzxtq1W8dvK1_q54r8Y41XK1n6A4sWqyNBgg=s176-c-k-c0x00ffffff-no-rj" group-title="JUJUY",  Videotel palpala
+https://ythls-v3.onrender.com/channel/UC3t0crku6rK2y5eTbgp-klQ.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/mFqfPmcsmQIjkH43HfxYfy37q342sj-9km1suItJK4v-bMNdEomo_uYdtBcaL4HBp5fpYJsjHQ=s176-c-k-c0x00ffffff-no-rj" group-title="JUJUY", El Tribuno de Jujuy (10 A 13 HRS)
+https://ythls-v3.onrender.com/channel/UCMywWPYWcnMqkgIOdyeYgyA.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/tqZWzaFj4Q_NFN1df41ZNbK-qdOP1X_DtxKrLkKCcCfK25wwNvg4olXirpmS2RzFVgJrHcv9=s176-c-k-c0x00ffffff-no-rj" group-title="JUJUY", Radio Provincia Jujuy Oficial
+https://ythls-v3.onrender.com/channel/UC-YQgCnNzDR_-Vr7rqsFCsQ.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/877507453457502208/IltCxz-t_400x400.jpg" group-title="JUJUY", CANAL 2 PERICO
+https://vivo.solumedia.com:19360/tecnovision/tecnovision.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/QWNwZ7m5kl8Xy81wa_8wI162RuL3a2uNqwGh0ESG3Tv1yFM3TWcQ-OovJIvV2m8Vs6jMce3-vw=s176-c-k-c0x00ffffff-no-rj" group-title="JUJUY", JUJUY A DIARIO
+https://ythls-v3.onrender.com/channel/UCvptQkEfIsDyL_TQdXgFjQw.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lK0KrXGT2_y56igVjtq2W6S5Am3vJ1wuCPQH5gL9LEyw=s176-c-k-c0x00ffffff-no-rj" group-title="JUJUY", Gato Garcia
+https://ythls-v3.onrender.com/channel/UCcIbPO8KQw3LWnXUE71itNw.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/-hYXApClohcRuOAXb5lbyUn9TZAuoWA8bS2B-bPgPH_He6qd1Ntc-4E9S6pV4hQ1v6STBZ20og=s176-c-k-c0x00ffffff-no-rj" group-title="LA PAMPA", VELONET GRAL PICO
+https://ythls-v3.onrender.com/channel/UCx8Qci1PBJWIW6GXVYFRNvQ.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/vfDLTzD8vBWi3gZw21Xi4QQk_Jva3fmrhtCgZQjgIF1kxZ9xsW5fTFvGqIn7sGZ3ZO9ce9HwRA=s176-c-k-c0x00ffffff-no-rj" group-title="LA RIOJA", RADIO GAMA VILLA UNIÓN
+https://ythls-v3.onrender.com/channel/UCVsKOW-o5SZb2wpGmsUWjTw.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKb4EaO6w6Bj7UNKBJboa_zRt758QIdyVkElkYhkfg=s176-c-k-c0x00ffffff-no-rj" group-title="MENDOZA", TVA MENDOZA (21 A 22 HORAS)
+https://ythls-v3.onrender.com/channel/UCHc44PWOZiC5IRqOXXqkmtQ.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/JdpMvdGEG6CBeAA5E0i-w22CTAmXDx21yplUDRBKj1qmAulyk9lXxrtt6nzFjIc2p25T_3mlFYg=s176-c-k-c0x00ffffff-no-rj" group-title="MENDOZA", Estación del Sol
+https://ythls-v3.onrender.com/channel/UC5XVWbzQ_WR-XOyUoJWdXRw.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/MxWx5VZVmMoGYw7iR4L-vi9OiQZeyMn0-MgLc0nnymBbBYLy6sxRHN9dIJpu9A8FfeFudjuqjTI=s176-c-k-c0x00ffffff-no-rj" group-title="MENDOZA", Radio Nihuil
+https://ythls-v3.onrender.com/channel/UCHIfuRg5isAgn_TgOBjM2VQ.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Ix27sOR7I8EaUi9kQqj-Ecr6xR6T2g8EvYynw8QV80IP1J2BvOOEvgepzlB22iZVXAD4OMemiA=s176-c-k-c0x00ffffff-no-rj" group-title="MISIONES", Radio Lateral Posadas
+https://ythls-v3.onrender.com/channel/UCm_cxxWg7khWQwsPMaLjoQQ.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/URKOfghZgHmz0zqZnci997MtOf5AozMifK_RWUtcdIec8CYtZlBByryaqujPdgbwgfY49gP59g=s176-c-k-c0x00ffffff-no-rj" group-title="NEUQUEN", VEX TV
+https://ythls-v3.onrender.com/channel/UCyo6BZ0hE2A31-XLpVKWDlQ.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqO4lePkLHGO42RDSMZnt3LgsTeLCMTuc0EislEv=s176-c-k-c0x00ffffff-no-rj" group-title="NEUQUEN",  Radio Megafon
+https://ythls-v3.onrender.com/channel/UCQRV7jNXdt2zuQouqgPmDYQ.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/tGe0VH_w0ptumT8Z-BY7U2fxxCNEtIsf4Tb8kOaoCJb5h5TRy78e_MWBc2CXO8bKWkCqCJGZuRA=s176-c-k-c0x00ffffff-no-rj" group-title="RIO NEGRO", CANAL 10 RIO NEGRO
+https://ythls-v3.onrender.com/channel/UCqcRu9coKWnbrr1Ooj354PQ.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJUxGZnBDOMrf_nKdtlq-Bk23Iw5AxQDv8K0BmjC=s176-c-k-c0x00ffffff-no-rj" group-title="RIO NEGRO", RADIO PATAGONIA
+https://ythls-v3.onrender.com/channel/UC5pJrGqBvjIrPZWkNtUgL5Q.m3u8  
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJXSyMTiZxgGprhT1BSLkCksh8vTyZYUaWAPNmt3=s176-c-k-c0x00ffffff-no-rj" group-title="RIO NEGRO", Radio POPULAR Viedma
+https://ythls-v3.onrender.com/channel/UCRCUxyLhJOSNrEpeXiZA7AA.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/UnH3wIgzAU-MFX843IcbJvJfFUlAt2aKoBq2gQ6alajGjAaw87uhRgnhXDCMC1uVqx1PDAT0_w=s176-c-k-c0x00ffffff-no-rj" group-title="RIO NEGRO", Radio La Puntual Viedma
+https://ythls-v3.onrender.com/channel/UCWZhHzl8ErzzaLhu1D7hA9w.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/88bIoKxC85lXsgiRMnqbkc8UB6ScJHjx0NvqFYxudJ_Cu3_ID2XDyl_426-kKZ1NfpsfpUIGPg=s88-c-k-c0x00ffffff-no-rj" group-title="RIO NEGRO", EL SEIS BARILOCHE - SOLO NOTICIERO (14 a 15)
+https://ythls-v3.onrender.com/channel/UCMy706Rhe2swaTmljCgiYVg.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/_-VndijEd6vXqpaVWia3DfSdNsU-UzIVMkpGCt6S39mDye0TumfKE7NfOEf5YIm3tjFlpW1yug=s176-c-k-c0x00ffffff-no-rj" group-title="RIO NEGRO", CANAL 36 EL BOLSON
+https://ythls-v3.onrender.com/channel/UC1QThqDhWnKDeCwlYl8gW-A.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/dShqY8k_ptQozy3JsLl9alf6OtkOKSNtLGmw3QNTVUE1c2JkRwDiCLRtdP818oN2O8WpfDiPWQ=s176-c-k-c0x00ffffff-no-rj" group-title="RIO NEGRO", COOP tv
+https://ythls-v3.onrender.com/channel/UCMpcyUVxU2Po21iQbOrBstw.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/wjHXPoBvtg6NXkti-2JxmC2FeDTMoVmmCZ1MubqcHseaJAzKdr4j-X45iln6q6Ow6NjkdGMxaw=s176-c-k-c0x00ffffff-no-rj" group-title="SALTA", Radio 947 Salta
+https://ythls-v3.onrender.com/UClRhjsbjqqUnGP_SvBQrxGg.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJW4guspUInEh3YjWesh42RsduoFCvpgn_ZhTzMd=s176-c-k-c0x00ffffff-no-rj" group-title="SAN JUAN", Radio ALAS FM101.7
+https://ythls-v3.onrender.com/channel/UCzWGgE92iuS2ujsQCbmlsIg.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/gaHNdVysPOHfFaaHOkJxIaj7WkFliD_y8PoWtdaG8FbetRNds_dpNYEG2GET0QMZZfzSK6D8hS8=s176-c-k-c0x00ffffff-no-rj" group-title="SAN JUAN", Radio Santa Lucia 99.7 San Juan
+https://ythls-v3.onrender.com/channel/UCfpWLXfGXnGSH6b3KMdnHSQ.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJUcf3w7oCcCu4-p8up6G2JRySUo7ry6zN0DD26B_A=s176-c-k-c0x00ffffff-no-rj" group-title="SANTA CRUZ", Diario Nuevo Día
+https://ythls-v3.onrender.com/channel/UCI_zuiftc7tc2A4HGEEYRGg.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Eltres_RGB-grad_%28positivo%29.png/153px-Eltres_RGB-grad_%28positivo%29.png" group-title="SANTA FE", EL TRES ROSARIO
+https://ythls-v3.onrender.com/channel/UCW1sJwBOGgPhSPXJ-6pjF6w.m3u8 
+
+#EXTINF:-1 tvg-logo="https://www.loteriasantafe.gov.ar/templates/loteria/images/logo.png" group-title="SANTA FE", LOTERIA SANTA FE
+https://ythls-v3.onrender.com/channel/UCkw6fIWEwQCMacEFLBzLytA.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZT-LGvNW8OI_VHgUwn6wv9p2HzKmN_iYyRLf54D_DA=s176-c-k-c0x00ffffff-no-rj" group-title="SANTA FE", EL LITORAL SANTA FE
+https://ythls-v3.onrender.com/channel/UCRtZO3mPqvCMYfmJogXyW7g.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/JWFKR6BOGAGiDBda_h0jskYU2Eu2WEiyC38cb0vWEI15rXMOmMd_butecI1MyrkVBt-AXu7qdw=s176-c-k-c0x00ffffff-no-rj" group-title="SANTA FE", Canal 2 San Justo SF
+https://ythls-v3.onrender.com/channel/UCJIHNzhqQdw0WifcOwojz9Q.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/hxI99CyzTBSlLVjDqFyRk28XsbaZyF41y3Jh7aQg2Hwv-6uzJ3lYo5gGOv6xOlExM54xdQpD=s176-c-k-c0x00ffffff-no-rj" group-title="SANTA FE", RADIO2 ROSARIO
+https://ythls-v3.onrender.com/channel/UCTJ0n6Hal7PpHERq4To6iHg.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBPkoMgNeNKLxEvCJoh6Zlms2uYE05yG53weTL1Oivm_VRyDtNleO9gf1oKgY4cTHYpFA&usqp=CAU" group-title="TUCUMAN", EL OCHO TUCUMAN
+https://ythls-v3.onrender.com/channel/UCYozHHDnLnQs2yc2k3t8cPA.m3u8  
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJVE4QANzgXzGz73LJphirPDunehTTXLwO7QOPPhtQ=s88-c-k-c0x00ffffff-no-rj"  group-title="TUCUMAN", AMERICA TUCUMAN
+https://ythls-v3.onrender.com/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/-tA30i615UkGDDL-NfvfMx8eV0LqTj3ely88Ijg8LsKe-y7FelHARDgjOsSsgtgt5Gf8sGvG=s176-c-k-c0x00ffffff-no-rj" group-title="TUCUMAN", LA GACETA PLAY
+https://ythls-v3.onrender.com/channel/UCowbI8idnvQTl2sFxkOvnKw.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/uf4JF6h1pTumPlkxvD0aaKIR_XyugohW5d-EjUYIT9sejmN0qvLs3H5ru0Kp3CNTgvNHzNyJjOo=s176-c-k-c0x00ffffff-no-rj" group-title="TUCUMAN", CANAL 10 TUCUMAN
+https://ythls-v3.onrender.com/channel/UCRlakPhec4-k3vkBeyWBojg.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/95jqCF8jvfzHEXJZGpSkR9PLFkDLvgpC1bVyGIujZC7KEj7ghZgAEn3xygl8LjTaDgw_N6I8zqk=s176-c-k-c0x00ffffff-no-rj" group-title="TUCUMAN", CANAL 4 SANTA MARIA (DE 12 A 13)
+https://ythls-v3.onrender.com/channel/UCofCCCDfOjS41wo8XB_PDXg.m3u8 
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/8vbEC8bs7jGp8a4BXCtqFOMK_LctZc43IJwsCX2zAgyvyerAEgdzKKRI4TykU32lmP1M6aR5=s176-c-k-c0x00ffffff-no-rj" group-title="TUCUMAN", La tucumana FM (DE 6 A 11)
+https://ythls-v3.onrender.com/channel/UCS_F0326eeAQY09gFqJILCw.m3u8 
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/I4dskHLrie8_CsblsSSLJVZfPF5Zjtrz9fwEjN0YmtmEQPzJnyEg9uyFJDgY-0sAKOW2QiAHBA=s176-c-k-c0x00ffffff-no-rj" group-title="TUCUMAN", Radio Tucumán
+https://ythls-v3.onrender.com/channel/UCCWNHuePu3KADnm3iuVPdtg.m3u8 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Four_Seasons_logo.svg/1200px-Four_Seasons_logo.svg.png" group-title="WEB CAM Y CLIMA", FOUR SEASONS BUENOS AIRES
+https://ythls-v3.onrender.com/channel/UCCkRwmztPEvut3gpsgmCmzw.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Bandera_de_la_Provincia_de_Tierra_del_Fuego.svg/320px-Bandera_de_la_Provincia_de_Tierra_del_Fuego.svg.png" group-title="WEB CAM Y CLIMA", USHUAIA CAMARA
+https://ythls-v3.onrender.com/channel/UC6NTD1HmdaZMbe9K5qADOvw.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Bandera_de_la_Provincia_de_Tierra_del_Fuego.svg/320px-Bandera_de_la_Provincia_de_Tierra_del_Fuego.svg.png" group-title="WEB CAM Y CLIMA", CANAL DE BEAGLE USHUAIA
+https://ythls-v3.onrender.com/channel/UCuR9Gx3rZA_eaJV9tF8l8HQ.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJU-1n6A5Bg_wJXi4t-kNpT79Mx9jIxTnCLWThl9xA=s176-c-k-c0x00ffffff-no-rj" group-title="WEB CAM Y CLIMA", Cipolletti
+https://ythls-v3.onrender.com/channel/UCnJz20oDnvQJJaWfaJGqKTw.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJUKVAYKPRYrumZZMCDkUyy1Rr1gMzpKf9GR8ib8=s176-c-k-c0x00ffffff-no-rj" group-title="WEB CAM Y CLIMA", RESISTENCIA CHACO
+https://ythls-v3.onrender.com/channel/UCftan3cVkKKfxXpRN9JUX7A.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/s8lgzKvQTcv3cUt3-Uq_6OOAgdN-aUxN2D-R9Syq82-rtp29O007EtfGcsrp0ZBcTOg3QFp0tQ=s160-c-k-c0x00ffffff-no-rj" group-title="WEB CAM Y CLIMA", MONTECARLOS MISIONES
+https://ythls-v3.onrender.com/channel/UCveq2vfMg1tgeVjvRPsOLVg.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lrQOv1GBOI4lcjMNjGRJPqgaNodo4cOkOiPh7_QAnDfw=s160-c-k-c0x00ffffff-no-rj" group-title="WEB CAM Y CLIMA", Portal 5900
+https://ythls-v3.onrender.com/channel/UCl5P2zJoH1gBdf38AiYALKA.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m8X9mT-HZG5lKIiCAJykIcmXqiL55IlVyGqWptac3ezJgf6r2Can8euNwXp4DTBFAbEw=s176-c-k-c0x00ffffff-no-rj" group-title="WEB CAM Y CLIMA", Tierra del Fuego Live
+https://ythls-v3.onrender.com/channel/UC6NTD1HmdaZMbe9K5qADOvw.m3u8
+
+
+
 

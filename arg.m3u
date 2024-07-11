@@ -1214,6 +1214,9 @@ https://panel.host-live.com/8144/8144/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/oCPBMn7vVl5xS-YJmllLyLNAeHqtcu1cxXaOmazyWuIdsVxiA7Twf7Gem9DBCQgShRo=w240-h480" group-title="PCIA BS AS", Radio Sol 96.1 Monte 
 https://inliveserver.com:1936/12010/12010/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.jumplay.com.ar/img/logo_1709226569.png" group-title="PCIA BS AS", JumPlay OLAVARRIA
+https://inliveserver.com:1936/17050/17050/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://aruna.cin.edu.ar/images/radios/Universidad-Mar-del-Plata-02.jpg" group-title="PCIA BS AS", RADIO UNIVERSIDAD 95.7 MDP (SOLO AUDIO)
 http://fm.mdp.edu.ar:8000/;stream.mp3
@@ -1437,6 +1440,8 @@ https://fl1001.bozztv.com/ssh101/tvtiopujio/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://radiourbana.coopmorteros.coop/public/Imagenes/LogoUrbana3.png" group-title="CORDOBA", URBANA TV CANAL 651 MORTEROS CORDOBA
 https://online.coopmorteros.coop/radiourbana/canal01.m3u8
 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/8HuW1mRMf71Ap76zVOyyH1BEEys8P2_cc2fr4f-Er5RU5wrHqtTw0ieWobhL0bcRGA=w240-h480" group-title="CORDOBA", Radio La Porfiada Salsacate
+https://inliveserver.com:1936/12062/12062/playlist.m3u8
 
 
 
@@ -2055,6 +2060,9 @@ https://panel.dattalive.com/8150/8150/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.radiosanjorge.com.ar/wp-content/uploads/2014/12/logonuevo-1.png" group-title="SANTA CRUZ", RADIO SAN JORGE 96.5 FM CALETA OLIVIA
 https://vivo.solumedia.com:19360/radiosanjorge/radiosanjorge.m3u8
 
+#EXTINF:-1 tvg-logo="https://viapatagonica.com.ar/wp-content/uploads/2018/07/via-patagonica.png" group-title="SANTA CRUZ", Via Patagonica PUERTO DESEADO
+https://inliveserver.com:1936/12066/12066/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1238122166685700096/9Ejo5bYX_400x400.jpg" group-title="SANTA CRUZ", CANAL 9 SANTA CRUZ
 https://videostream.shockmedia.com.ar:19360/canal9santacruz/canal9santacruz.m3u8
 
@@ -2179,6 +2187,12 @@ https://stream.trixserver.com:3343/live/uv073live.m3u8
 #EXTINF:-1 tvg-logo="https://www.radiovozrosario.com/img/logo_1654005182.png" group-title="SANTA FE", RADIO VOZ ROSARIO
 https://inliveserver.com:1936/17020/17020/playlist.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJrjvYhsY71ReVa5idv_Eh6L3eSgb--ezNYubcUFFMxvIwjlDmJ8kONlp50oxrSEawdyI&usqp=CAU" group-title="SANTA FE", CONECTA MAS RADIO VGG
+https://inliveserver.com:1936/12038/12038/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lt9.com.ar/assets/img/lt9id.png?r=1" group-title="SANTA FE", LT9 AM 1150 SANTA FE
+https://inliveserver.com:1936/12060/12060/playlist.m3u8
 
 
 

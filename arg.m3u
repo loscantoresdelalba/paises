@@ -211,12 +211,6 @@ http://190.11.130.46/mnp/lnmas/output.mpd
 #EXTINF:-1 tvg-logo="https://www.perfil.com/img/minisitios/econocanal/logo.png?v=1" group-title="NOTICIAS NACIONALES", CANAL E
 https://unlimited1-buenosaires.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/1x137ostiNGYbXe5sP-LYMun9ghpr_uz54WATZM7rVeBBrDV-8DQV0Hy8Fv8kbWeX_BIY48Vbng=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", EXTRA TV
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0023
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lq90qVBWRaNJxcH70Jlko05VWx2iwDf8vL4jGMJ5MnmCs=s160-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", El Destape TV 24.6
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0077
-
 #EXTINF:-1 tvg-id="CanalRural.ar" tvg-logo="https://3.bp.blogspot.com/-kRrQVEhftUU/V-_RmD35S8I/AAAAAAAABB0/3CbSCG5SblctjXDXlMkNc8V0bZHVAfFZACLcB/s1600/canalrural-2016.png" group-title="NOTICIAS NACIONALES", RURAL TV
 http://190.11.130.46/mnp/rural/output.mpd
 
@@ -226,29 +220,7 @@ https://s8.stweb.tv/chacra/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_13.jpg" group-title="NOTICIAS NACIONALES", EL TRECE NOTICIERO 
 https://live-01-02-eltrece.vodgc.net/eltrecetv_noti/tracks-v3a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---LS4.png" group-title="NOTICIAS NACIONALES", RADIO CONTINENTAL AM 590
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0001  
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Radio_Rivadavia_%282020%29.png/800px-Radio_Rivadavia_%282020%29.png" group-title="NOTICIAS NACIONALES", RADIO RIVADAVIA AM 630
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0002
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/z5OyIisNuuoNMsoe5L13VtY2gEBqBLxr3Qz6XUpEyv35AKcU3MLBriN72R2XHFmK0Dn-Qkjfnvk=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", RADIO 10 AM 710
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0003
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1569312379703365637/fdzc1Tzz_400x400.jpg" group-title="NOTICIAS NACIONALES", RADIO MITRE AM 790
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0004
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/xK2UU-mjcRno8NcJSFnE9VRaIY_-TRaKNa3Nkyca7ZMxUeFrIIZGk9YsltI64rdmaHgyOQowFg=s160-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", Radio Splendid AM 990
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0005
-
-#EXTINF:-1 tvg-logo="https://amdelplata.com/wp-content/uploads/2023/08/logo-negativo.png" group-title="NOTICIAS NACIONALES", RADIO DEL PLATA AM 1030
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0007
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/GmKYEDNukShC6vUJU-drXQMkllMCZK184gRIMBulv41Z0suNzAw-uwhY6ViGlDh07oAcORvp=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", El Observador 107.9
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0024
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/vPjSedcJZggFmkyjCh8lWuqaDFeuyaLKEOio7xibiwvSs1aUZ7CeyCQenE9TUJPmtqRwHZR3cA=s160-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", DIPUTADOS TV 
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0103
 
 
 

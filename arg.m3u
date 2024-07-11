@@ -1443,6 +1443,8 @@ https://online.coopmorteros.coop/radiourbana/canal01.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/8HuW1mRMf71Ap76zVOyyH1BEEys8P2_cc2fr4f-Er5RU5wrHqtTw0ieWobhL0bcRGA=w240-h480" group-title="CORDOBA", Radio La Porfiada Salsacate
 https://inliveserver.com:1936/12062/12062/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.svision.com.ar/wp-content/uploads/2016/07/logo_sivision.png" group-title="CORDOBA", S VISION CALAMUCHITA
+https://inliveserver.com:1936/9010/9010/playlist.m3u8
 
 
 
@@ -1885,6 +1887,9 @@ https://5f700d5b2c46f.streamlock.net/lcrlacomuna/lcrlacomuna/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/YxLojGAOMKIue0OuAUxuZshBHqciVjfMr9rKxLbvXYa5NI4_vVtUiLtz7WlZ_pIVAj9UP4AFuA=s176-c-k-c0x00ffffff-no-rj" group-title="RIO NEGRO", RADIO C BARILOCHE
 https://inliveserver.com:1936/9008/9008/playlist.m3u8
+
+
+
 
 
 

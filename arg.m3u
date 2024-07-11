@@ -1211,6 +1211,10 @@ https://stmvideo2.livecastv.com/elborne/elborne/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-ROCKZ.png" group-title="PCIA BS AS", FM Rock 103.3 Zarate
 https://panel.host-live.com/8144/8144/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/oCPBMn7vVl5xS-YJmllLyLNAeHqtcu1cxXaOmazyWuIdsVxiA7Twf7Gem9DBCQgShRo=w240-h480" group-title="PCIA BS AS", Radio Sol 96.1 Monte 
+https://inliveserver.com:1936/12010/12010/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://aruna.cin.edu.ar/images/radios/Universidad-Mar-del-Plata-02.jpg" group-title="PCIA BS AS", RADIO UNIVERSIDAD 95.7 MDP (SOLO AUDIO)
 http://fm.mdp.edu.ar:8000/;stream.mp3
 
@@ -1849,6 +1853,8 @@ https://stmv1.srvstm.com/senillosa/senillosa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lavozdeldesierto.com.ar/images/design/isologo.png" group-title="NEUQUEN", FM LA VOZ DEL DESIERTO NEUQUEN
 https://stmv1.srvstm.com/vozdesierto/vozdesierto/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.fmlider897.com.ar/img/logo_1668106571.png" group-title="NEUQUEN", FM LIDER 89.7 CAVIHUE
+https://inliveserver.com:1936/12020/12020/playlist.m3u8
 
 
 
@@ -2036,6 +2042,9 @@ https://stmv6.voxtvhd.com.br/crossingtv/crossingtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/MPu-cVENDW-VrzC1zfk0XqLH2dTvvPaz0da4r6MbhSYb9CXflR418i0GVX34GJv4tQ" group-title="SANTA CRUZ", CANAL 3 LAS HERAS
 https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://estudiocity.com.ar/img/logo_1675432018.png" group-title="SANTA CRUZ", ESTUDIO CITY 100.5 RIO GALLEGOS
+https://inliveserver.com:1936/12030/12030/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000677072657/5258433abf9a1b4799167bd2c8506dbe_400x400.jpeg" group-title="SANTA CRUZ", RADIO MEDIATICA 98.9 FM - RIO GALLEGOS
 https://streamlov.alsolnet.com/radiomediaticatv/live/playlist.m3u8

@@ -1572,6 +1572,8 @@ https://cs1.xcast.com.br/7546/7546/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio7899_1457012436.jpg" group-title="ENTRE RIOS", PLANET 95.1 FM PARANA
 https://cs1.xcast.com.br/8884/8884/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://radioser.com.ar/img/logo_1693314286.jpeg" group-title="ENTRE RIOS", Radioser 95.3 FM Hasenkamp
+https://inliveserver.com:1936/9028/9028/playlist.m3u8
 
 
 
@@ -2191,7 +2193,6 @@ https://stream.trixserver.com:3343/live/uv073live.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.radiovozrosario.com/img/logo_1654005182.png" group-title="SANTA FE", RADIO VOZ ROSARIO
 https://inliveserver.com:1936/17020/17020/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJrjvYhsY71ReVa5idv_Eh6L3eSgb--ezNYubcUFFMxvIwjlDmJ8kONlp50oxrSEawdyI&usqp=CAU" group-title="SANTA FE", CONECTA MAS RADIO VGG
 https://inliveserver.com:1936/12038/12038/playlist.m3u8

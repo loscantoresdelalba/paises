@@ -44,36 +44,32 @@ http://45.5.151.151:8000/play/a0fe/index.m3u8
 http://45.5.151.151:8000/play/a002/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="LA LLAMA Sports", Tango Sports 
-http://jmrk.xyz:3050/148eman@gmail.com/gdQrY6Y3Ht/610382
 
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="LA LLAMA Sports", Tango Sports 2
+
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="LA LLAMA Sports", Tango Sports 
 https://lobo-tv.live:443/belpley/sYqKZQrTZa/2140800
 
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="LA LLAMA Sports", Tango Sports 3
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="LA LLAMA Sports", Tango Sports 2
 https://lobo-tv.live:443/belpley/sYqKZQrTZa/2121662
 
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="LA LLAMA Sports", Tango Sports 3
+http://112307897359828493.ofd0628.xyz:80/play/hu111735/Rak3N8ukv94/828493.ts
+
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="LA LLAMA Sports", Tango Sports 4
+http://112307897359776666.ofd0628.xyz:80/play/hu111735/Rak3N8ukv94/776666.ts
 
 
-
-
-#EXTI#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/tlc.png" group-title="LA LLAMA Sports", TeleCarpincho Sports
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/tlc.png" group-title="LA LLAMA Sports", TeleCarpincho Sports
 http://abcnew.site:8880/3ca04303n08/asfefd4wr34/49731
 
-#EXTI#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/tlc.png" group-title="LA LLAMA Sports", TeleCarpincho Sports 2
-http://jmrk.xyz:3050/148eman@gmail.com/gdQrY6Y3Ht/610349
-
-#EXTI#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/tlc.png" group-title="LA LLAMA Sports", TeleCarpincho Sports 3
-http://jmrk.xyz:3050/148eman@gmail.com/gdQrY6Y3Ht/610348
-
-#EXTI#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/tlc.png" group-title="LA LLAMA Sports", TeleCarpincho Sports 4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/tlc.png" group-title="LA LLAMA Sports", TeleCarpincho Sports 2
 https://lobo-tv.live:443/belpley/sYqKZQrTZa/202157
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/tlc.png" group-title="LA LLAMA Sports", TeleCarpincho Sports 3
+http://112307897359781930.ofd0628.xyz:80/play/hu111735/Rak3N8ukv94/781930.ts
 
-
-
-
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/tlc.png" group-title="LA LLAMA Sports", TeleCarpincho Sports 4
+http://112307897359781932.ofd0628.xyz:80/play/hu111735/Rak3N8ukv94/781932.ts
 
 
 

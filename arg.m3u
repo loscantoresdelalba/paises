@@ -584,7 +584,8 @@ http://186.148.163.18:8000/play/a009/index.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJWHIbwMhnFMCuzqAgYLr5jYv87JH7fDN65VxdIP=s176-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG", LUZU TV
+https://ythls.armelin.one/channel/UCTHaNTsP7hsVgBxARZTuajw.m3u8
 
 
 
@@ -4223,9 +4224,6 @@ https://ythls.armelin.one/channel/UCvdwhh_fDyWccR42-rReZLw.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaQqZkqkHW3D4oDj5kPgt5TO9LJ3YEiu9Ye-ToJBnw=s176-c-k-c0x00ffffff-no-rjj" group-title="NOTICIAS INTERNACIONAL", Television Canaria
 https://ythls.armelin.one/channel/UCTQrUTmzCWIfG6h4EVCdOCQ.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJWHIbwMhnFMCuzqAgYLr5jYv87JH7fDN65VxdIP=s176-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG", LUZU TV
-https://ythls.armelin.one/channel/UCTHaNTsP7hsVgBxARZTuajw.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/cz7jeL0VIqd7P4jfb-6G9zFvoitju6SeHcf2cCcuUr-NH6lvPYjjp9iEYhAdC72jSzDK4zWf=s176-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG", Neura Media
 https://ythls.armelin.one/channel/UC-40U87JsevMIMn7PMw4jPw.m3u8

@@ -1,5 +1,10 @@
 #EXTM3U  
 
+
+
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/KJ32sS0KC836zytOmZbWfG7wgR1epfcK8zp3nZB5FyQkMTZxK7exBOLpMC9U9yBN3UZEa24O", Cuarteteando
+https://ythls-v3.onrender.com/channel/UC6786bpkxmtqw2YgicH4g3A.m3u8?playlist=index
+
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/_0N3p1cnIITphcj79c2vAQSbelcaw6kxncZafd1h53GMvi8g_3hgeM9OQUVn8I_fk-ly41yR", Chingón | En Vivo
 https://ythls-v3.onrender.com/channel/UCwEs6zaXoRw-FZksxnWkZgQ.m3u8?playlist=index
 
@@ -8,6 +13,7 @@ https://ythls-v3.onrender.com/channel/UCr7TYJVXSe3_rVILo-F8Xhg.m3u8?playlist=ind
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/mi1RkS9WALMF-7Lo0OjtWuOkO_iwiZsYmykvoSLFPrHGp22zZ_zD2yuLZ-YfpWN7owYUwjrTlw", Canal E
 https://ythls-v3.onrender.com/channel/UCW53kA_WXKWVxJbpHrTOBfw.m3u8?playlist=index
+
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/REdulLjzgxpdHlujUeTpflyzAWwGDEmYNpDh5zyKqNwOCHXvhJBgYFv0OIGVaqb6MrIrrik2Ig", CBA24Ncomar
 https://ythls-v3.onrender.com/channel/UCUzonpa3XKurQVycdMY70XQ.m3u8?playlist=index
 

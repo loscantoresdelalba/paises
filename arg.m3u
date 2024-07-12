@@ -1864,6 +1864,9 @@ https://stmv1.srvstm.com/vozdesierto/vozdesierto/playlist.m3u8
 https://inliveserver.com:1936/12020/12020/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/671ed6_c34db7615e22419983dc02ea94b28f55.png/v1/fill/w_250,h_187,al_c,q_95,enc_auto/671ed6_c34db7615e22419983dc02ea94b28f55.png" group-title="NEUQUEN", EL ARCA DE NEUQUEN
+https://inliveserver.com:1936/12006/12006/playlist.m3u8
+
 
 
 

@@ -1,5 +1,8 @@
 #EXTM3U  
 
+#EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/_0N3p1cnIITphcj79c2vAQSbelcaw6kxncZafd1h53GMvi8g_3hgeM9OQUVn8I_fk-ly41yR", Chingón | En Vivo
+https://ythls-v3.onrender.com/channel/UCwEs6zaXoRw-FZksxnWkZgQ.m3u8?playlist=index
+
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_mY026VQiARzpzxsJp3xUejrQm0tODkWqGySpqKfq3D6xQ", Aire de Santa Fe
 https://ythls-v3.onrender.com/channel/UCr7TYJVXSe3_rVILo-F8Xhg.m3u8?playlist=index
 

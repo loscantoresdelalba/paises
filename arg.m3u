@@ -22,8 +22,6 @@ http://190.11.130.46/mnp/fox_sport2/output.mpd
 http://190.11.130.46/mnp/fox_sport3/output.mpd
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="Tango Sports", TyC SPORTS 
-http://112307897359776763.ofd0628.xyz:80/play/hu111735/Rak3N8ukv94/776763.ts
-
 
 
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="Tango Sports", TyC SPORTS Internacional
@@ -40,9 +38,6 @@ http://45.5.151.151:8000/play/a0fe/index.m3u8
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 2
 http://45.5.151.151:8000/play/a002/index.m3u8
 
-
-
-
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 3
 https://lobo-tv.live:443/belpley/sYqKZQrTZa/2140800
 
@@ -56,17 +51,13 @@ http://112307897359828493.ofd0628.xyz:80/play/hu111735/Rak3N8ukv94/828493.ts
 http://112307897359776666.ofd0628.xyz:80/play/hu111735/Rak3N8ukv94/776666.ts
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/tlc.png" group-title="Tango Sports", Tango Sports 7
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 7
 http://abcnew.site:8880/3ca04303n08/asfefd4wr34/49731
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/tlc.png" group-title="Tango Sports", Tango Sports 8
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 8
 https://lobo-tv.live:443/belpley/sYqKZQrTZa/202157
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/tlc.png" group-title="Tango Sports", Tango Sports 9
-http://112307897359781930.ofd0628.xyz:80/play/hu111735/Rak3N8ukv94/781930.ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/tlc.png" group-title="Tango Sports", Tango Sports 10
-http://112307897359781932.ofd0628.xyz:80/play/hu111735/Rak3N8ukv94/781932.ts
 
 
 

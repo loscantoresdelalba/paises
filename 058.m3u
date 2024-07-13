@@ -1,6 +1,8 @@
 #EXTM3U  
 
-
+#EXTINF:0,TyC Sports
+#EXTVLCOPT:network-caching=1000
+http://vo01.mohdtv.com:8880/voby4846/59129684/30054
 
 #EXTINF:-1 group-title="Ungrouped" tvg-language="" tvg-logo="https://yt3.ggpht.com/KJ32sS0KC836zytOmZbWfG7wgR1epfcK8zp3nZB5FyQkMTZxK7exBOLpMC9U9yBN3UZEa24O", Cuarteteando
 https://ythls-v3.onrender.com/channel/UC6786bpkxmtqw2YgicH4g3A.m3u8?playlist=index

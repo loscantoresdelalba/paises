@@ -22,7 +22,7 @@ http://190.11.130.46/mnp/fox_sport2/output.mpd
 http://190.11.130.46/mnp/fox_sport3/output.mpd
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="Tango Sports", TyC SPORTS 
-
+http://112307897359777414.ofd0628.xyz:80/play/hu111735/Rak3N8ukv94/777414.ts
 
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="Tango Sports", TyC SPORTS Internacional
 http://45.232.148.101:8000/play/a07n/index.m3u8

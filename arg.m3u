@@ -27,22 +27,10 @@ http://190.11.130.46/mnp/dxtv/output.mpd
 
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="Tango Sports", TyC SPORTS 
-http://112307897359777414.ofd0628.xyz:80/play/hu111735/Rak3N8ukv94/777414.ts
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="Tango Sports", TyC SPORTS 
 http://mohdtv.com:8880/yxl007/12345678/49975
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="Tango Sports", TyC SPORTS 
-http://jmrk.xyz:3050/total/aLYWPLRtRM/610395
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="Tango Sports", TyC SPORTS 
-http://tvlatino.club:2082/YKb44BNfjaAg/Z6GRGPUMT3R4/175326
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="Tango Sports", TyC SPORTS 
-http://newultra.xyz:8080/manu654338/manu65338/554
-
-
 
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="Tango Sports", TyC SPORTS Internacional
 http://45.232.148.101:8000/play/a07n/index.m3u8
@@ -143,7 +131,7 @@ http://190.11.130.46/mnp/construiriptv/output.mpd
 http://190.11.130.46/mnp/dxtv/output.mpd
 
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="NACIONALES", TyC SPORTS 
-http://112307897359777414.ofd0628.xyz:80/play/hu111735/Rak3N8ukv94/777414.ts
+http://mohdtv.com:8880/yxl007/12345678/49975
 
 #EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title="NACIONALES", GARAGE TV
 http://190.11.130.46/mnp/garage/output.mpd

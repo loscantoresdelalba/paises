@@ -905,19 +905,28 @@ https://live-05-13-la100.vodgc.net/live-05-13-la100/index.m3u8
 https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/0/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZRCazpNOqQcY8FaA-lP-H-SNhKKsCEQLny14r69=s176-c-k-c0x00ffffff-no-rj" group-title="RADIO-AMBA", MEGA
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0017
+https://ythls.armelin.one/channel/UCtloZ7xFNO9O114pkoV9a5g.m3u8
 
 #EXTINF:-1 tvg-logo="https://urbanaplayfm.com/file/2022/05/logo.png" group-title="RADIO-AMBA", URBANA PLAY 104.3 FM 
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0022
+https://ythls.armelin.one/channel/UCC1kfsMJko54AqxtcFECt-A.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Ph7cwkIc-kOD29JxD6Y6JNotUDTnHLBgulrJAkw_wNQz3QSevz9SF3zqxpHfudNzrpdYgEKsYyY=s176-c-k-c0x00ffffff-no-rj" group-title="RADIO-AMBA", Radio One 103.7
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0021
+https://ythls.armelin.one/channel/UC8XExQXrgutNTcwfACp1Miw.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/pDSd701P-bEY545oalnnx-tSrr1Eu9t2Aw9BhFkoVMtdf3o-FrGMxzipJk5iaZx0HkOD8dRxzQ=s160-c-k-c0x00ffffff-no-rj" group-title="RADIO-AMBA", Radio Con Vos 89.9
+https://ythls.armelin.one/channel/UCxDteokWBemJvLI_I0VUGdA.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Radio_rockpop.png/200px-Radio_rockpop.png" group-title="RADIO-AMBA", Rock And Pop
+https://ythls.armelin.one/channel/UCAlQ5f7mhnkfM6jjXeJDw7g.m3u8
+
+#EXTINF:-1 tvg-logo="https://urbanaplayfm.com/file/2022/05/logo.png" group-title="RADIO-AMBA", URBANA PLAY 104.3 FM 
+https://ythls.armelin.one/channel/UCC1kfsMJko54AqxtcFECt-A.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/MPGVFdswIwc8Fq8FtxsOCvlj1nSVpIta5nGP4AzA81mZtK2HiYC8Cz_uMZZTVIocNJLhaZ76dbQ=s88-c-k-c0x00ffffff-no-rj" group-title="RADIO-AMBA", Pop Radio 101.5
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0020
+https://ythls.armelin.one/channel/UCtc_WjDRwCrZSEq2WEwD7XQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/97sLhCzI_E89ZkqUzcJiB5qwaurcB0o7XYP979p34w82R2r_7ZtQZhxKAV8POPFq3IMDrxbaXBk=s176-c-k-c0x00ffffff-no-rj" group-title="RADIO-AMBA",  FM Vale 97.5 
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0016
+https://ythls.armelin.one/channel/UC1Oa7gHuqzGHB90FPb0ssPA.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cronica.com.ar/fmq/images/logos/logo-fmq.svg" group-title="RADIO-AMBA", RADIO FMQ QUILMES
 https://g3.vxral-slo.transport.edge-access.net/b08/ngrp:cronica_fmq-100044_all/cronica_fmq-100044_720p.m3u8

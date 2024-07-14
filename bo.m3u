@@ -4,7 +4,7 @@
 https://master.tucableip.com/abyayalatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hg2PiIn.png" group-title="BOLIVIA", Agenda Minera TV
-https://srv.panelcast.net/amitel/amitel/playlist.m3u8
+https://stv.boliviaplay.com.bo/hls/0/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hg2PiIn.png" group-title="BOLIVIA", ANT TV
 http://181.188.144.141/tmp_hls/ant_tv/index.m3u8

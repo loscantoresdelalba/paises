@@ -30,6 +30,9 @@ https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U98Z5zn.png" group-title="BOLIVIA", Bolivisión
 https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U98Z5zn.png" group-title="BOLIVIA", Bolivisión
+https://alba-bo-bolivision-upptv.stream.mediatiquestream.com/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.cadenaa.tv/wp-content/uploads/2022/03/logoaweb-1024x278.png" group-title="BOLIVIA", Cadena A
 https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/playlist.m3u8
 
@@ -105,6 +108,9 @@ https://w8.redpat.tv:7777/play/110/index.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/vKBNdp6sIjJ4uVQ_xXowfjoLZhBUXb-QDd5ZJxQCos-uPdj4iZdt7bTaE7VV8DLP0w=w240-h480-rw" group-title="BOLIVIA", Radio Uno PST
 https://master.tucableip.com/pstbolivia/video.m3u8
 
+#EXTINF:-1 tvg-logo="https://ptvbolivia.com/images/ID%20HD_1.png" group-title="BOLIVIA, PTV 
+https://glb.bozztv.com/glb/ssh101/centralptv/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1087876525/prueba_400x400.jpg" group-title="BOLIVIA", Red Advenir
 http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8
 
@@ -122,6 +128,9 @@ https://seo.tv.bo/tv/SEOTV_1FHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://seo.tv.bo/LOGOS/LOGO_SEO_TV_FHD.png" group-title="BOLIVIA", SEO TV deportes 
 https://seo.tv.bo/tv/SEOtv_5sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://redsigloxxibolivia.com/wp-content/uploads/2020/11/Logo-a-color-vertical-2-300x76.png" group-title="BOLIVIA", Siglo XXI TV 
+https://stmvideo3.livecastv.com/sigloxxi/sigloxxi/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tdtmultimedia.com/wp-content/uploads/2023/11/logo-web-300x205.png" group-title="BOLIVIA", TDT Multimedia 
 https://video01.kshost.com.br/juan6318/juan6318/playlist.m3u8
@@ -143,6 +152,9 @@ http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YdiF5k6.png" group-title="BOLIVIA", TVU
 https://video.live.com.bo:3003/live/tvuumsalive.m3u8
+
+#EXTINF:-1 tvg-logo="https://integraciones.unitel.bo/unitel/v2-resources/vu/img/logo-unitel.png" group-title="BOLIVIA",Unitel Santa Cruz
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qgrWDIs.png" group-title="BOLIVIA", Univalle Televisión
 https://master.tucableip.com/univalletv/playlist.m3u8

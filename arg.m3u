@@ -2099,13 +2099,13 @@ https://videostream.shockmedia.com.ar:19360/canal9santacruz/canal9santacruz.m3u8
 http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 
 #EXTINF:-1 tvg-id="TelefeRosario.ar" tvg-logo="https://pbs.twimg.com/profile_images/1065070449598611456/96wwvlty.jpg" group-title="SANTA FE", TELEFE ROSARIO 
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0364
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0367
 
 #EXTINF:-1 tvg-id="TelefeSantaFe.ar" tvg-logo="https://pbs.twimg.com/profile_images/1669538372061208579/Wibfqd9H_400x400.jpg" group-title="SANTA FE", TELEFE SANTA FE
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0371
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0376
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m-rLPwMeU5Ch-5NZsIGmfMadzuRqEKPd6zzChhqg=s176-c-k-c0x00ffffff-no-rj" group-title="SANTA FE", CADENA 3 ROSARIO
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0361
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0363
 
 #EXTINF:-1 tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/9730866.jpg" group-title="SANTA FE", CANAL LUZ
 https://g2.vxral-slo.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_720p/index.m3u8  

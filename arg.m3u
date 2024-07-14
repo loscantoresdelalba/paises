@@ -707,6 +707,12 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.paste.pics/ec7eaf6d3c0e46696ab854a63a6fece8.png" group-title="ANIME - TEEN", ANIME STATION 
 https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1604_ZTV_Anime.png" group-title="ANIME - TEEN", ZTV Anime
+https://mitv.zplay.cl/Ztv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1585_AniRetro.png" group-title="ANIME - TEEN", AniRetro
+https://tv.streaming-chile.com:19360/8068/8068.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1445_Teatrix.png" group-title="ENTRETENIMIENTO", Teatrix
 https://jmp2.uk/PlutoTV/63ceb6ff60bc8f00088dc625-alt.m3u8
 

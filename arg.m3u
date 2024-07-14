@@ -112,7 +112,7 @@ http://190.11.130.46/mnp/encuentro/output.mpd
 https://ythls-v3.onrender.com/channel/UCOV_Vx1baZJY9Tfvgm-UI3w.m3u8
 
 #EXTINF:-1  tvg-logo="https://fotos.perfil.com/2024/03/04/trim/1280/720/caras-tv-1764928.jpg" group-title="NACIONALES", CARAS TV 
-https://unlimited1-buenosaires.dps.live/carastv/carastv.smil/playlist.m3u8
+https://unlimited2-cl-isp.dps.live/carastv/carastv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/telemax.png" group-title="NACIONALES", TELEMAX
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8

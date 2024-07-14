@@ -12,7 +12,7 @@ http://181.188.144.141/tmp_hls/ant_tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/RedATB2022.png/150px-RedATB2022.png" group-title="BOLIVIA", ATB 
 http://186.121.206.197/live/daniel/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="BOLIVIA , Atesur 
+#EXTINF:-1 tvg-logo="" group-title="BOLIVIA" , Atesur 
 https://video2.getstreamhosting.com:19360/8032/8032.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/3LYp4KCoxAtKuMgDN5S6kHSxFuA7qxQoUNftznmnzyjcDp4bgqe6CGSQ4YMdFJ4rDAM=w240-h480" group-title="BOLIVIA", Ayni tv

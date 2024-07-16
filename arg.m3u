@@ -168,6 +168,17 @@ http://190.11.130.46/mnp/gourmet/output.mpd
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/telefe.jpg" group-title="NACIONALES", TELEFE PLUTO TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/613237a1c9e0db0007a91350livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3McziTZ5M5VJkRn4IBIPAh/53add865f835209e59decf37bacb705e/Metro.png?fm=webp&q=80" group-title="NACIONALES" , METRO
+http://181.191.140.2:8000/play/a0g0/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/Mq0oDJsOGLGwmqR3jljjd/3b623163d3192f59a41720d0418c2813/canal-volver.png?fm=webp&q=80" group-title="NACIONALES" , VOLVER
+http://181.191.140.2:8000/play/a0fp/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3YRH1ARFHgPzmkpxYvdyYb/46d00e2d0c56fb9d172668de72f86b54/27_Metro.png?fm=webp&q=80" group-title="NACIONALES" , CANAL A 
+http://181.191.140.2:8000/play/a0ft/index.m3u8
+
+
+
 
 
 

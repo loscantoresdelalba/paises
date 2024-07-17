@@ -4201,6 +4201,9 @@ https://ythls-v3.onrender.com/channel/UC7fedBVCaVPhMNI_axwg69w.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/z5OyIisNuuoNMsoe5L13VtY2gEBqBLxr3Qz6XUpEyv35AKcU3MLBriN72R2XHFmK0Dn-Qkjfnvk=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", RADIO 10 AM 710
 https://ythls-v3.onrender.com/channel/UCJozD5RVug7EZdTjqkGISYQ.m3u8
 
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/JxTyO3fqqzmDMpm3NVF8wEZuuyGdJGlYHo4kSjo9BwGEZmuHL5rq3GhMbAjNHb82v20FId6AdQ=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", Radio La Red AM 910
+https://ythls-v3.onrender.com/channel/UCs1U5lRXvUJHn0CgXI6oXAw.m3u8
+
 #EXTINF:-1 tvg-logo="https://amdelplata.com/wp-content/uploads/2023/08/logo-negativo.png" group-title="NOTICIAS NACIONALES", RADIO DEL PLATA AM 1030
 https://ythls-v3.onrender.com/channel/UCz9Z9Qu-eZDkDnQ6lgI1YSQ.m3u8
 
@@ -4332,9 +4335,6 @@ https://ythls-v3.onrender.com/channel/UCN3gx_z62nxCeFIkaK2HbrA.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/3mAUBwUKF7IJFlUO7wZAB3zSQlx2nKZAtQ-ubSQJ6khqrTy2pBfgTB4RGGCrVdXfn46HUmbQ=s176-c-k-c0x00ffffff-no-rj" group-title="RADIO-AMBA", Radio Kamikaze
 https://ythls-v3.onrender.com/channel/UCwYIspzhyEff1U3OxZcvb8w.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/JxTyO3fqqzmDMpm3NVF8wEZuuyGdJGlYHo4kSjo9BwGEZmuHL5rq3GhMbAjNHb82v20FId6AdQ=s176-c-k-c0x00ffffff-no-rj" group-title="RADIO-AMBA", Radio La Red AM 910
-https://ythls-v3.onrender.com/channel/UCs1U5lRXvUJHn0CgXI6oXAw.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/L2dno_bLwRIpL8wxLS4M90clhOqRUHhRpdM3V_VGAOECPTq8VvBCuQRADgnlvKX2A1rvKZffhQ=s176-c-k-c0x00ffffff-no-rj" group-title="RADIO-AMBA", canalmantra
 https://ythls-v3.onrender.com/channel/UCRpVIJxDvvhxyoKpRIwtNEg.m3u8

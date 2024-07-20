@@ -86,7 +86,7 @@ https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="NetTV.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/NET_TV.jpg" group-title="NACIONALES", NET TV
 https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Encuentro.ar" tvg-country="AR" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/encuentro.png" group-title="NACIONALES", ENCUENTRO
+#EXTINF:-1 tvg-id="Encuentro.ar" tvg-country="AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/613px-Logo_del_canal_Encuentro.svg.png" group-title="NACIONALES", ENCUENTRO
 http://190.11.130.46/mnp/encuentro/output.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xdsxNVXq/609-Canal-Ciudad.png" group-title="NACIONALES" , CANAL DE LA CIUDAD
@@ -95,13 +95,13 @@ https://ythls-v3.onrender.com/channel/UCOV_Vx1baZJY9Tfvgm-UI3w.m3u8
 #EXTINF:-1  tvg-logo="https://fotos.perfil.com/2024/03/04/trim/1280/720/caras-tv-1764928.jpg" group-title="NACIONALES", CARAS TV 
 https://unlimited2-cl-isp.dps.live/carastv/carastv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/telemax.png" group-title="NACIONALES", TELEMAX
+#EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/800px-Telemax_Argentina_%282018%29.png" group-title="NACIONALES", TELEMAX
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TecTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Nuevo_logo_TEC_2022.png" group-title="NACIONALES", TEC
 https://vd01.streaminghd.net.ar:3787/live/jcslppmtlive.m3u8
 
-#EXTINF:-1 tvg-id="Pakapaka.ar" tvg-country="AR" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/pakapaka.png" group-title="NACIONALES", PAKA PAKA
+#EXTINF:-1 tvg-id="Pakapaka.ar" tvg-country="AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Paka-paka.svg/512px-Paka-paka.svg.png" group-title="NACIONALES", PAKA PAKA
 http://190.11.130.46/mnp/pkpk/output.mpd
 
 #EXTINF:-1 tvg-id="Cinear.ar" tvg-country="AR" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/cine-ar.png" group-title="NACIONALES", CINEAR
@@ -113,7 +113,7 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/mirador/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.construirtv.com/wp-content/uploads/2020/03/Logo_300.png" group-title="NACIONALES", CONSTRUIR TV
 http://190.11.130.46/mnp/construiriptv/output.mpd
 
-#EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/deportv.png" group-title="NACIONALES", DEPORTV
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="hhttps://upload.wikimedia.org/wikipedia/commons/thumb/8/87/DeporTV_%282020_Logo_oficial%29.png/800px-DeporTV_%282020_Logo_oficial%29.png" group-title="NACIONALES", DEPORTV
 http://190.11.130.46/mnp/dxtv/output.mpd
 
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="NACIONALES", TyC SPORTS 
@@ -122,7 +122,10 @@ http://190.11.130.46/mnp/6ym1cI5NULP0gJHuXiaWh5ZRqJO0ZR4T/output.mpd
 #EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title="NACIONALES", GARAGE TV
 http://190.11.130.46/mnp/garage/output.mpd
 
-#EXTINF:-1 tvg-id="CanalOrbe21.ar" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/orbe-21.png" group-title="NACIONALES", ORBE 21
+#EXTINF:-1 tvg-id="CanalOrbe21.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Logo_AM-sports-2019.svg/796px-Logo_AM-sports-2019.svg.png" group-title="NACIONALES", AM Sports
+http://181.191.140.2:8000/play/a0fl/index.m3u8
+
+#EXTINF:-1 tvg-id="CanalOrbe21.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Canal_Orbe_21_logo.svg/100px-Canal_Orbe_21_logo.svg.pngg" group-title="NACIONALES", ORBE 21
 https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Wt94ulT522DHedSNj6m-PCw3tWpBMN7LF0VhIslu4x1-udZ9CtMUrHpFQZQ-U97HPIY=w240-h480" group-title="NACIONALES", UNIFE
@@ -4209,7 +4212,7 @@ https://ythls-v3.onrender.com/channel/UC8_LjUd3lB3pr64NDs8o4tA.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/yDu32Wsa3T7E1q2L44Hl2lzrBrKiUxVYXL9m8QinTUJ7Km8bQDhx1A9_GvuvtiPtKWWbk6yOvi8=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", Vocería Presidencial
 https://ythls-v3.onrender.com/channel/UCCSbOixo2xpZc_oToqeq2jQ.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/SYF5BHG2NEezqYYqnZNSmQR-Fc4DuguOJ1-qW47XDeogzBJk-bo4OnnDJQWQaK-4d7jHhpHMv3w=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", Ahora Play
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/PUZaouBDWH1vPzIAzqIXsn8xx3M_SdIa4gxncu61_dE6FRDOXTDD0TRAj9Inp2vDr7oELMwHuA=s160-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", Ahora Play
 https://ythls-v3.onrender.com/channel/UCRyGJcJYqqiCByEaUhDLMsw.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Ww7DjZRjD_qoJfcoNBfS7JYncYTdyf_jIsk4O6aVZFk7KEBvwVKJiWG2971CUwlktJ13Cz_E3A=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", CLARÍN - Eventos
